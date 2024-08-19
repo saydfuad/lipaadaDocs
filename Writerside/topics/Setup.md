@@ -1,5 +1,7 @@
 # Setup
 
+Ensure you have registered all your **Classrooms** under **Student Records Module**
+
 To begin using the admission module, follow these steps to complete the setup:
 
 

@@ -14,4 +14,14 @@
         <toc-element topic="Interview.md"/>
         <toc-element topic="Admission.md"/>
     </toc-element>
+    <toc-element topic="Student-Records.md"/>
+    <toc-element topic="Finance.md">
+        <toc-element topic="Accounts.md"/>
+        <toc-element topic="Setup-finance.md"/>
+        <toc-element topic="Create-a-Single-Bill.md"/>
+        <toc-element topic="Create-Bulk-Bills.md"/>
+        <toc-element topic="Create-bills-from-balances.md"/>
+        <toc-element topic="Show-Bill.md"/>
+        <toc-element topic="Products.md"/>
+    </toc-element>
 </instance-profile>
