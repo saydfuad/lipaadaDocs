@@ -40,7 +40,7 @@ To start adding **Subjects**, follow these steps:
 6. Click **Add** to finish adding the **Subject**. Repeat the process for all other **Subjects** in the same class.
 ![subjects.png](subjects.png) Figure 2
 
-# Grade Setup
+## Grade Setup
 
 **LIPA ADA** uses your grading system to analyze results and provide valuable insights into student performance. Since this is a one-time setup, take extra time to ensure accuracy.
 
@@ -55,8 +55,7 @@ Setting up the grading system is straightforward; just follow these steps:
 **Note:** When adding grades for a particular **Level**, ensure that the minimum and maximum values cover all possible marks that a student might achieve. For example, if you set the minimum as 0 and the maximum as 34 for **F**, and then set the minimum as 36 and the maximum as 54 for **D**, you will miss the grade for a student who scores 35, as it wouldn't fall within any of the defined ranges.
 ![grade.png](grade.png) Figure 3
 
-
-# Report Card Comments
+## Report Card Comments
 
 Instead of manually writing comments on each student's report card, **LIPA ADA** allows you to predefine comments based on a range of student scores. These comments can be set separately for the **Head Teacher (Principal)** and the **Class Teacher**.
 
