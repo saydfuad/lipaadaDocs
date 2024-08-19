@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="la-e4"
+                 name="Lipa Ada - Empower 4"
+                 start-page="Introduction.md">
+
+    <toc-element topic="Introduction.md"/>
+    <toc-element topic="Admission-module.md">
+        <toc-element topic="Setup.md"/>
+        <toc-element topic="Dashboard.md"/>
+        <toc-element topic="Applications.md"/>
+        <toc-element topic="Interview.md"/>
+        <toc-element topic="Admission.md"/>
+    </toc-element>
+</instance-profile>
