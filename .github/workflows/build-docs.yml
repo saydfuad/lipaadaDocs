@@ -9,6 +9,8 @@ env:
   INSTANCE: 'Writerside/la-ud'
   ARTIFACT: 'webHelpLA-UD2-all.zip'
   DOCKER_VERSION: '241.18775'
+  TARGET_REPO: 'https://github.com/saydfuad/lipaAdaDocProduction.git'
+  TARGET_BRANCH: 'master' # or any branch you want to push to
 
 jobs:
   build:
@@ -33,3 +35,21 @@ jobs:
           path: |
             artifacts/${{ env.ARTIFACT }}
           retention-days: 7
+
+      - name: Checkout target repository
+        run: |
+          git clone ${{ env.TARGET_REPO }} target-repo
+          cd target-repo
+          git checkout ${{ env.TARGET_BRANCH }}
+
+      - name: Copy built docs to target repo
+        run: |
+          cp -R artifacts/${{ env.ARTIFACT }}/* target-repo/
+          cd target-repo
+          git add .
+          git commit -m "Update documentation [skip ci]"
+
+      - name: Push to target repo
+        run: |
+          cd target-repo
+          git push origin ${{ env.TARGET_BRANCH }}
