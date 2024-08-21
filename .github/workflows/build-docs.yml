@@ -38,18 +38,19 @@ jobs:
 
       - name: Checkout target repository
         run: |
-          git clone ${{ env.TARGET_REPO }} target-repo
+          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@${{ env.TARGET_REPO }} target-repo
           cd target-repo
           git checkout ${{ env.TARGET_BRANCH }}
 
-      - name: Copy built docs to target repo
+      - name: Unzip the built documentation
         run: |
-          cp -R artifacts/${{ env.ARTIFACT }}/* target-repo/
+          unzip artifacts/${{ env.ARTIFACT }} -d target-repo/
+
+      - name: Commit and push changes
+        run: |
           cd target-repo
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
           git commit -m "Update documentation [skip ci]"
-
-      - name: Push to target repo
-        run: |
-          cd target-repo
-          git push origin ${{ env.TARGET_BRANCH }}
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@${{ env.TARGET_REPO }} ${{ env.TARGET_BRANCH }}
