@@ -9,7 +9,7 @@ env:
   INSTANCE: 'Writerside/la-ud'
   ARTIFACT: 'webHelpLA-UD2-all.zip'
   DOCKER_VERSION: '241.18775'
-  TARGET_REPO: 'https://github.com/saydfuad/lipaAdaDocProduction.git'
+  TARGET_REPO: 'github.com/saydfuad/lipaAdaDocProduction.git'
   TARGET_BRANCH: 'master' # or any branch you want to push to
 
 jobs:
