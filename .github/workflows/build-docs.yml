@@ -38,7 +38,7 @@ jobs:
 
       - name: Checkout target repository
         run: |
-          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@${{ env.TARGET_REPO }} target-repo
+          git clone https://x-access-token:${{ secrets.PERSON_TOKEN }}@${{ env.TARGET_REPO }} target-repo
           cd target-repo
           git checkout ${{ env.TARGET_BRANCH }}
 
@@ -53,4 +53,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
           git commit -m "Update documentation [skip ci]"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@${{ env.TARGET_REPO }} ${{ env.TARGET_BRANCH }}
+          git push https://x-access-token:${{ secrets.PERSON_TOKEN }}@${{ env.TARGET_REPO }} ${{ env.TARGET_BRANCH }}
