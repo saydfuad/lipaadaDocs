@@ -4,12 +4,22 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables></variables>
-    <build-profile instance="la-e4">
+    <build-profile instance="la-ud">
         <variables>
             <noindex-content>true</noindex-content>
         </variables>
     </build-profile>
-    <build-profile instance="la-e4">
+    <build-profile instance="la-ud">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
+    <build-profile instance="la-ud">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
+    <build-profile instance="la-ud">
         <variables>
             <noindex-content>true</noindex-content>
         </variables>

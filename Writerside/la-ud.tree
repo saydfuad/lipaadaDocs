@@ -2,8 +2,8 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="la-e4"
-                 name="Lipa Ada - Empower 4"
+<instance-profile id="la-ud"
+                 name="LIPA ADA  - User Documentation"
                  start-page="Introduction.md">
 
     <toc-element topic="Introduction.md"/>
