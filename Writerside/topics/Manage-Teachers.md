@@ -1,8 +1,8 @@
 # Manage Teachers
 
-The Teachers section displays a list of all registered teachers, but it does not provide a way to add a new teacher. This is because **LIPA ADA** treats teachers as **Users**, as they are required to post **Student** results. To create a teacher profile, navigate to **Manage Users** and add them from there. Refer to the **User Management** guide for more details.
+Sehemu ya **Teachers** inaonyesha orodha ya walimu wote waliowasilishwa, lakini haikupi njia ya kuongeza mwalimu mpya. Hii ni kwa sababu LIPA ADA inachukulia walimu kama Users, kwani wanahitajika kuweka matokeo ya **Student.** Ili kuunda wasifu wa mwalimu, nenda kwenye **Manage Users** na waongeze kutoka huko. Angalia mwongozo wa **User Management** kwa maelezo zaidi.
 
-For a complete **Teacher Profile**, including work performance, leave management, payroll, and attendance monitoring, contact **ZMOTION SOLUTIONS** to acquire the **Human Resource Module**.
+Kwa wasifu kamili wa **Teacher Profile**, ikiwa ni pamoja na utendaji wa kazi, usimamizi wa likizo, malipo, na ufuatiliaji wa mahudhurio, wasiliana na ZMOTION SOLUTIONS ili kupata **Human Resource Module.**
 
 
 ![teachers.png](teachers.png)

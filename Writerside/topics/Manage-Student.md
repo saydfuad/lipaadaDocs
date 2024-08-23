@@ -1,45 +1,40 @@
 # Manage Students
+Sehemu hii inaorodhesha wanafunzi wote waliokubaliwa katika shule yako na inatoa zana za kutafuta na kuchuja ili kukusaidia kupata mwanafunzi maalum au kundi la wanafunzi.
 
-This section lists all students admitted to your school and provides search and filtering tools to help you locate a specific student or a group of students.
+Kwa kila mwanafunzi, una chaguzi zifuatazo: **View Student Account**, **Edit Student**, na **Delete Student** (ikiwa hakuna rekodi zinazohusiana naye).
 
-For each student, you have the following options: **View Student Account**, **Edit Student**, and **Delete Student** (if there are no records associated with him/her).
-
-You also have the option to **Add Student**, but we recommend using the *Import* feature as it automates **Relative Registration** and **Classroom Admission** for you.
+Pia una chaguo la **Add Student**, lakini tunapendekeza kutumia kipengele cha **Import** kwani kinakuwezesha kujiandikisha kwa **Relative Registration** na **Classroom Admission** kwa urahisi.
 
 ## View Student Account
 
-To view a student's account, click the student icon as shown in Figure 1 below.
+Ili kuona akaunti ya mwanafunzi, bonyeza ikoni ya mwanafunzi kama inavyoonyeshwa kwenye Mchoro 1 hapa chini.
 
 ![view_student.png](view_student.png)
-**Figure 1**
+**Mchoro 1**
 
 ### Basic Info
 
-This section displays all basic student information, such as names and date of birth.
+Hapa utaona orodha ya jamaa na ndugu wa mwanafunzi. Pia una uwezo wa kuunganisha jamaa na ndugu wa ziada.
 
-### Family Info
-
-Here you will find a list of the student's relatives and siblings. You also have the ability to link additional relatives and siblings.
-
-1. Click **Link Relative** to link, for example, a mother.
-2. If the relative was registered before, search by name or phone number in the **Select Relative** box, or use **Add New** to register a new relative.
-3. Select the **Relation** with this student (e.g., *Mother*) and tick **Is Primary Contact** if you want to send payment notifications and other automatic messages to this relative.
-4. Click **Add** to finish.
-
-To add a **Sibling**, make sure they are registered as a student first. Then click **Link Sibling**, select the sibling, and click **Add**.
+1. Bonyeza **Link Relative** kuunganisha, kwa mfano, mama.
+2. Ikiwa jamaa aliwasilishwa kabla, tafuta kwa jina au namba ya simu kwenye kisanduku cha **Select Relative**, au tumia 
+   **Add New** kujiandikisha jamaa mpya.
+3. Chagua **Relation** na mwanafunzi huyu (mfano, **Mother**) na **tik Is Primary Contact** ikiwa unataka kutuma taarifa za malipo na ujumbe mwingine wa kiotomatiki kwa jamaa huyu.
+4. Bonyeza Add kumaliza.
+Ili kuongeza **Sibling**, hakikisha kwamba amejiandikisha kama mwanafunzi kwanza. Kisha bonyeza **Link Sibling**, chagua ndugu, na bonyeza **Add**.
 
 ### Documents
 
-This section allows you to attach all documents related to this student, including the birth certificate and other documents.
+Sehemu hii inakuruhusu kuambatisha nyaraka zote zinazohusiana na mwanafunzi huyu, ikiwa ni pamoja na cheti cha kuzaliwa na nyaraka nyingine.
 
 ### Classrooms
 
-Here you will see a list of all **Classrooms** the student has attended at your school. The topmost will be the current class the student is admitted to. If you need to change the student's class, close the active class first, then use the **Class Admission** button to admit them to another **Classroom**.
+Hapa utaona orodha ya Classrooms zote ambazo mwanafunzi amehudhuria katika shule yako. Darasa lililoko juu litakuwa darasa la sasa ambalo mwanafunzi amekubaliwa. Ikiwa unahitaji kubadilisha darasa la mwanafunzi, funga darasa lililopo kwanza, kisha tumia kitufe cha **Class Admission** kuingiza mwanafunzi kwenye **Classroom** nyingine.
 
 ### Exam Results
-
-This section provides a summary of the student's previous exam results, and you can filter the results as needed.
+Sehemu hii inatoa muhtasari wa matokeo ya mitihani ya awali ya mwanafunzi, na unaweza kuchuja matokeo kulingana na mahitaji.
 
 ### Bill & Payments
 
-Here you can view a list of all pending bills related to the student. You can also use the **Add** button as a shortcut to add a student bill.
+Hapa unaweza kuona orodha ya bili zote zinazohusiana na mwanafunzi. Pia unaweza kutumia kitufe cha Add kama kipeperushi kuongeza bili ya mwanafunzi.
+
