@@ -1,15 +1,14 @@
 # Class Promotion
 
+Sehemu hii inakuruhusu kuhamasisha wanafunzi kutoka darasa la chini hadi darasa la juu au hadi kuhitimu. Kwa mfano, ikiwa una wanafunzi katika STD 1 na mwaka mpya wa masomo umeanza, na unahitaji kuhamasisha kwao hadi STD 2, hapa ndio mahali pa kufanya hivyo.
 
-This section enables you to promote students from a lower class to an upper class or to graduation. For example, if you have students in **STD 1** and it's a new academic year, and you need to move them to **STD 2**, this is the place to do that.
+## Fuata hatua hizi:
 
-Follow these steps:
-
-1. Navigate to **Class Promotion**, select the source class that you need to promote, and click the arrow to pull in the list of students.
-2. Ensure that your academic year setup is greater than the selected **Classroom** academic year—students cannot be promoted within the same year.
-3. Select the students you need to promote, or select all.
-4. Choose the destination **Classroom** and click **Process**.
-
-**Note:** Tick **Is final class** this is a final class at your school for student you are promoting
+1. Nenda kwenye **Class Promotion**, chagua darasa la chanzo ambalo unahitaji kuhamasisha, na bonyeza mshale ili kuonyesha orodha ya wanafunzi.
+2. Hakikisha kwamba usanidi wa mwaka wako wa masomo ni mkubwa kuliko mwaka wa masomo wa **Classroom** uliochaguliwa—wanafunzi hawawezi kuhamasishwa ndani ya mwaka huo huo.
+3. Chagua wanafunzi ambao unahitaji kuhamasisha, au chagua wote.
+4. Chagua **Classroom** ya marudio na bonyeza **Process.**
+**Note:**
+Tik **Is final class** ikiwa hiki ni darasa la mwisho katika shule yako kwa mwanafunzi unayemhamasisha.
 
 ![promote.png](promote.png)
