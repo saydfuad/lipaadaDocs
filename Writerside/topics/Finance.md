@@ -1,13 +1,15 @@
 # Finance Module
 
-The Finance module offers a secure and comprehensive billing and payment system, giving you a clear and detailed view of your school’s financial status.
+**Finance module** inatoa mfumo salama na wa kina wa malipo na bili, ukikupa mtazamo wazi na wa kina wa hali ya kifedha ya shule yako.
 
-By default, the module is set to an easy mode for simplicity, but you can request the full accounting mode to access advanced features, including direct ledger postings and complete financial reporting.
+Kwa chaguo-msingi, module hii imewekwa katika hali rahisi kwa ajili ya urahisi, lakini unaweza kuomba hali kamili ya uhasibu ili kupata vipengele vya juu, ikiwemo uwekaji wa moja kwa moja wa ledger na ripoti kamili za kifedha.
 
-To begin using this module ensure these two steps are done:
-1. You have registered all your classroom under **Student Records Module** 
-2. You have imported your students under **Student Records Module** or Admitted them under **Admission Module**
+## Ili kuanza kutumia module hii hakikisha hatua hizi mbili zimefanywa:
 
-Bills are managed using control numbers for streamlined payments. Provide the control number to parents and instruct them to use it as a payment reference.
+1. Umesajili madarasa yako yote chini ya **Student Records Module**.
+2. Umeagiza wanafunzi wako chini ya **Student Records Module** au Umeingiza wao chini ya A**dmission Module**.
+
+Bili zinadhibitiwa kwa kutumia namba za udhibiti kwa malipo yaliyowekwa sawa. Toa namba ya udhibiti kwa wazazi na uwahimize kuitumia kama marejeleo ya malipo.
+
 
 ![fin_f1.png](fin_f1.png)
