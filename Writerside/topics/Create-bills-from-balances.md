@@ -1,14 +1,14 @@
 # Create Bills from Balances
 
-This section enables you to load bill balances from an Excel file into **LIPA ADA**. This functionality is provided to assist with migrating all student bill balances from your previous system to **LIPA ADA**.
+Sehemu hii inakuruhusu kupakia salio la bili kutoka kwa faili la Excel ndani ya LIPA ADA. Kipengele hiki kinatolewa ili kusaidia kuhamasisha salio la bili za wanafunzi kutoka mfumo wako wa awali hadi LIPA ADA.
 
-Follow these steps to load bills:
+Fuata hatua hizi kupakia bili:
 
-1. Navigate to **Bills** and click **Load from file**.
-2. Select the **Classroom** and **Academic Year**, then click **Filter**.
-3. The system will generate an Excel file listing all students from the selected **Classroom**. Click **Download** and open the file in an Excel program.
-4. Enter the balance for each student and input `0` for those with no pending bill balance.
-5. Return to **LIPA ADA**, choose the updated file, and click **Upload Bills**.
-6. The bills will be created, and the system will redirect you to the bills list.
+1. Nenda kwenye **Bills** na ubofye **Load from file.**
+2. Chagua **Classroom** na **Academic Year**, kisha bofya **Filter.**
+3. Mfumo utaunda faili la **excel** linaloorodhesha wanafunzi wote kutoka Classroom iliyochaguliwa. Bofya **Download** na fungua faili hilo katika programu ya **Excel.**
+4. Ingiza salio kwa kila mwanafunzi na weka 0 kwa wale ambao hawana salio la bili linalosubiri.
+5. Rudi kwenye LIPA ADA, chagua faili lililosasishwa, na bofya **Upload Bills.**
+6. Bili zitaandaliwa, na mfumo utakuelekeza kwenye orodha ya bili.
 
 ![bill_file.png](bill_file.png)

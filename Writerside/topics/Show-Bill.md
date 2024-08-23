@@ -1,32 +1,30 @@
 # Manage Bill
 
 ## Show Bill
-Each bill keeps track of its items and payment records history. To view bill details, navigate to **Bills** and click the **View** icon as shown below.
+
+Kila bili inafuatilia vitu vyake na historia ya malipo. Ili kuona maelezo ya bili, nenda kwenye Bills na ubofye ikoni ya View kama inavyoonyeshwa hapa chini..
  ![bill_show.png](bill_show.png)
 
-The following section will be displayed and is divided into three parts:
+Sehemu inayofuata itajitokeza na inagawanyika katika sehemu tatu:
 
-1. **Bill Details**: The top section shows the general details of the bill.
-2. **Bill Items List**: The second part lists all bill items and their values.
-3. **Payment History**: The last part displays the payment history & credit notes for this bill.
-
+1. **Bill Details:** Sehemu ya juu inaonyesha maelezo ya jumla ya bili.
+2. **Bill Items List:** Sehemu ya pili inoorodhesha vitu vyote vya bili na thamani zake.
+3. **Payment History:** Sehemu ya mwisho inaonyesha historia ya malipo na hati za mikopo kwa bili hii.
 ![show_parts.png](show_parts.png)
 
-In the top right corner, these three buttons can be used to:![sho_corner.png](sho_corner.png)
+Katika kona ya juu kulia, kuna vifungo vitatu vinavyoweza kutumika:![sho_corner.png](sho_corner.png)
 
-1. **Credit Note**: Issue a credit note if a student terminates their studies at your school and is no longer obligated to pay the remaining bills.
-2. **Print Invoice**: Generate a PDF invoice if a parent requests it.
-3. **Back**: Return to the **Bills** section.
+1. **Credit Note:** Toa hati ya mkopo ikiwa mwanafunzi anafuta masomo yake katika shule yako na hana tena wajibu wa kulipa bili zilizosalia.
+2. **Print Invoice:** Unda ankara ya PDF ikiwa mzazi anaomba hivyo.
+3. ** Back:** Rudia kwenye sehemu ya Bills.
 
-
-## Edit Bill
-
-A bill can be edited if it is not fully paid. To edit a bill, navigate to **Bills** and click the **Edit** button as shown below to open the bill editor.
+## Hariri Bili
+Bili inaweza kuhaririwa ikiwa haijalipwa kwa kamili. Ili kuhariri bili, nenda kwenye Bills na ubofye kifungo cha Edit kama inavyoonyeshwa hapa chini ili kufungua mhariri wa bili.
 ![bill_edit.png](bill_edit.png)
 
-Update your bill information and click **Update Bill** to save changes
+Sasisha maelezo ya bili yako na ubofye Update Bill ili kuokoa mabadiliko.
 ![bill_update.png](bill_update.png)
 
-## Cancel bill
+## Ghairi Bili
 
-**LIPA ADA** allows bill cancellation only if no payments have been made towards the bill. If there has been a payment, use the **Credit Note** feature to waive the remaining amount instead.
+**LIPA ADA inaruhusu kufuta bili tu ikiwa hakuna malipo yaliyofanywa kwa bili hiyo. Ikiwa kumekuwa na malipo, tumia kipengele cha Credit Note kuondoa kiasi kilichosalia badala ya kufuta bili hiyo.
