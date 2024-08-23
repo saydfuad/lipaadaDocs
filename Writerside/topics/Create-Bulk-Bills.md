@@ -1,14 +1,22 @@
 # Create Bulk Bills
 
-This section is typically used to generate bills at the beginning of the year or term. The process depends on whether you have created a single group under the fee structure for a single bill (control number) throughout the year or multiple groups for generating separate bills for each term.
+Sehemu hii hutumika kwa kawaida kuandaa bili mwanzoni mwa mwaka au muhula. Mchakato unategemea ikiwa umeunda kundi moja chini ya mpangilio wa ada kwa ajili ya bili moja (namba ya kudhibiti) kwa mwaka mzima au makundi mengi kwa ajili ya kuandaa bili tofauti kwa kila muhula.
 
-To create bills for all or selected students in a particular **Classroom**, follow these steps:
+Ili kuandaa bili kwa wanafunzi wote au waliochaguliwa katika Classroom fulani, fuata hatua hizi:
 
-1. Navigate to **Bills** and click **Add Bulk Bills**.
-2. Choose the **Classroom**, **Academic Year**, and **Group**.![bulk1.png](bulk1.png)
-3. The system will list all students from the selected **Classroom** for the chosen **Academic Year**.
-4. **Select All** students by clicking the checkbox at the table heading, or select specific students for whom you need to generate bills.
-5. Click **Generate** to create bills. _Note: System will skip all student with similar bill in selected **Academic Year**_
-6. The bills will be created and system will redirect you to bills list
+1. Nenda kwenye **Bills** na ubofye **Add Bulk Bills.**
+2. Chagua **Classroom**, **Academic Year**, na **Group.**![bulk1.png](bulk1.png)
+3. Mfumo utaorodhesha wanafunzi wote kutoka **Classroom** iliyochaguliwa kwa **Academic Year** uliyochagua.
+4. Chagua Wote kwa kubofya kisanduku cha tiki kwenye kichwa cha jedwali, au chagua wanafunzi maalum ambao unahitaji kuwaandalia bili.
+5. Bofya **Generate** ili kuunda bili. Kumbuka: Mfumo utaruka wanafunzi wote wenye bili sawa katika **Academic Year** iliyochaguliwa.
+6. Bili zitaandaliwa na mfumo utakuelekeza kwenye orodha ya bili.
 
-**Note:** The student selection feature allows you to bulk generate bills for specific students if bill is not mandatory for all students, such as transport or boarding bills otherwise select all students.
+**Note:**
+Kipengele cha kuchagua wanafunzi kinakuruhusu kuandaa bili kwa kundi maalum la wanafunzi ikiwa bili si lazima kwa wanafunzi wote, kama vile bili za usafiri au za bweni, vinginevyo chagua wanafunzi wote.
+
+
+
+
+
+
+
