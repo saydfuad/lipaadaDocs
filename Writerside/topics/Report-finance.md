@@ -1,19 +1,23 @@
 # Reports
 
-The Student Record Module provides the most common academic reports and includes the ability to print and export them to Excel files. The available reports are:
+**Student Record Module** inatoa ripoti za kitaaluma zinazotumika mara nyingi na inajumuisha uwezo wa kuchapisha na kuuza nje ripoti hizo kwenye faili za **Excel.** Ripoti zinazopatikana ni:
 
-1. **Student Report**
-    - Lists all students along with their associated **Classrooms**.
-    - Allows filtering by **Stream**.
-    - Includes student parent information.
+1. Student Report
 
-2. **Report Card**
-    - Works with the student **Results** section to generate printable report cards for each **Classroom**.
+ - Inataja wanafunzi wote pamoja na **Classrooms** walizohusishwa nazo.
+ - Inaruhusu kuchuja kwa **Stream.**
+ - Inajumuisha taarifa za wazazi wa mwanafunzi.
 
-3. **Result Analysis**
-    - Provides a comprehensive breakdown of school performance for a particular term.
-    - Analyzes performance by class, subject, and overall results.
+2. Report Card
 
-4. **Grade Distribution**
-    - Offers detailed, subject-wise analysis of student performance for a specific term.
-    - Helps assess how each subject is performing across the school.
+ - Inafanya kazi na sehemu ya Results ya mwanafunzi ili kuzalisha ripoti zinazoweza kuchapishwa kwa kila Classroom.
+
+3. Result Analysis
+
+ - Inatoa uchambuzi wa kina wa utendaji wa shule kwa muhula fulani.
+ - Inachambua utendaji kwa darasa, somo, na matokeo ya jumla.
+
+4. Grade Distribution
+
+ - Inatoa uchambuzi wa kina wa utendaji wa wanafunzi kwa kila somo katika muhula fulani.
+ - Inasaidia kutathmini jinsi kila somo linavyofanya vizuri kote shuleni.
