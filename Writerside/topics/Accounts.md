@@ -1,12 +1,14 @@
 # Accounts
-**LIPA ADA** is a comprehensive accounting system that provides flexibility to create multiple accounts for separating your revenues. For example, you can create separate accounts for **School Fee** and **Transport**, and have them appear individually in the income statement report.
+**LIPA ADA ni mfumo wa uhasibu kamili unaotoa fleksibiki ya kuunda akaunti nyingi kwa ajili ya kutenganisha mapato yako. Kwa mfano, unaweza kuunda akaunti za kutenganisha **School Fee** na **Transport**, na ziwe zinaonekana kwa kujitegemea katika ripoti ya mapato.
 
-To simplify this process, follow these steps to add a new account and focus on the types of accounts you need:
+Ili kurahisisha mchakato huu, fuata hatua hizi ili kuongeza akaunti mpya na kujielekeza kwenye aina za akaunti unazohitaji:
 
-1. Navigate to **Accounts** and click **Add Account** to open the form.
-2. Enter the account name (e.g., **School Fees**) and select **Operating Revenue** as the type.
-3. Click **Add** to save the account.
+1. Nenda kwenye Accounts na bofya **Add Account** kufungua fomu.
+2. Ingiza jina la akaunti (kwa mfano, **School Fees**) na chagua **Operating Revenue** kama aina.
+3. Bofya Add kuhifadhi akaunti hiyo.
+
 ![ACCOUNTS.png](ACCOUNTS.png)
-**Note:** Initially, focus on two types of accounts: **Operating Revenue** and **Operating Expenses**. Use **Operating Revenue** accounts to create fee items within the **Fee Structure** and for **Products** sold outside the fee structure. **Operating Expenses** accounts are used for creating **Discounts**. See the **Products** section for more details on this.
+**Note:**
+Kwa awali, jielekeze kwenye aina mbili za akaunti: **Operating Revenue** na **Operating Expenses**. Tumia akaunti za **Operating Revenue** kuunda vitu vya ada ndani ya **Fee Structure** na kwa Products zinazouzwa nje ya muundo wa ada. Akaunti za **Operating Expenses** zinatumika kuunda Discounts. Tazama sehemu ya **Products** kwa maelezo zaidi kuhusu hili.
 
  

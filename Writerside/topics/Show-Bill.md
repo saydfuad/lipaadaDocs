@@ -27,4 +27,4 @@ Sasisha maelezo ya bili yako na ubofye Update Bill ili kuokoa mabadiliko.
 
 ## Ghairi Bili
 
-**LIPA ADA inaruhusu kufuta bili tu ikiwa hakuna malipo yaliyofanywa kwa bili hiyo. Ikiwa kumekuwa na malipo, tumia kipengele cha Credit Note kuondoa kiasi kilichosalia badala ya kufuta bili hiyo.
+**LIPA ADA inaruhusu kufuta bili tu ikiwa hakuna malipo yaliyofanywa kwa bili hiyo. Ikiwa kumekuwa na malipo, tumia kipengele cha **Credit Note** kuondoa kiasi kilichosalia badala ya kufuta bili hiyo.

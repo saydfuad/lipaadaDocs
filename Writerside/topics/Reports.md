@@ -1,16 +1,13 @@
 # Reports
 
-**LIPA ADA** provides all the essential reports by default, giving you a comprehensive overview of your financial status. Additional reports become available when you activate full accounting mode.
+**. LIPA ADA inatoa ripoti muhimu zote kwa chaguo-msingi, ikikupa mwonekano kamili wa hali yako ya kifedha. Ripoti za ziada zinapatikana unapowasha hali kamili ya uhasibu.
 
-In this section, we will explore the usefulness of each report and how they can provide insights into your school's financial situation. All reports offer options to print and export to an Excel file.
+Katika sehemu hii, tutajifunza umuhimu wa kila ripoti na jinsi zinavyoweza kutoa mwangaza kuhusu hali ya kifedha ya shule yako. Ripoti zote zinatoa chaguo za kuchapisha na kuuza nje kwa faili za Excel.
 
-1. **Payment Report:** This report lists all payments received within a chosen date range, along with their total value. You can further filter this report by bill **Group** and **Classroom**. Use this report to see how much you've collected over a particular period and narrow it down by **Group** or **Classroom** as needed.
+1. **Payment Report:** Ripoti hii inaorodhesha malipo yote yaliyopokelewa ndani ya kipindi kilichochaguliwa, pamoja na jumla ya thamani yao. Unaweza kuchuja ripoti hii zaidi kwa **Group** ya bili na **Classroom.** Tumia ripoti hii kuona kiasi ulichokusanya kwa kipindi maalum na kupunguza kwa **Group** au **Classroom** kama inavyohitajika. 
 
-2. **Bank Reconciliation Report:** This report pulls in transactions sent to the bank. You can filter transactions by **Payment Date** (the date when payment was received) or **Bank Date** (the date when the payment was sent to your bank account).
-
-3. **Account Statement:** This report allows you to check the opening and closing balances of each of your accounts. For example, if you need to see how much **Transport Revenue** you've collected over a specific period, select the account and date range.
-
-4. **Student Statement:** This report provides a complete status of a student's account, including all bills created and payments made during the selected time. Use this report to trace bills and payments for a student from different bills created at different times.
-
-5. **Bill Report:** This is the master report for bill tracking and sending reminders to parents. It allows you to view pending bills for students in a particular **Classroom**, with options to filter by **Stream** and **Academic Year**. When you select any bill or multiple bills by clicking the checkbox next to each bill, the system will provide an extra button at the top right corner to send a reminder to parents about the pending bills.
+2. **Bank Reconciliation Report:** Ripoti hii inaingiza miamala iliyopelekwa kwa benki. Unaweza kuchuja miamala kwa Tarehe ya Malipo (tarehe ambayo malipo yalipokelewa) au Tarehe ya Benki (tarehe ambayo malipo yalitumwa kwenye akaunti yako ya benki).
+3. **Account Statement:** Ripoti hii inakuwezesha kuangalia salio la ufunguzi na kufunga kwa kila akaunti yako. Kwa mfano, kama unahitaji kuona kiasi cha Transport Revenue ulichokusanya kwa kipindi maalum, chagua akaunti na kipindi cha tarehe.
+4. **Student Statement:** Ripoti hii inatoa hali kamili ya akaunti ya mwanafunzi, ikiwa ni pamoja na bili zote zilizoundwa na malipo yaliyofanywa wakati wa muda uliochaguliwa. Tumia ripoti hii kufuatilia bili na malipo kwa mwanafunzi kutoka bili tofauti zilizoundwa kwa nyakati tofauti.
+5. **Bill Report:**  Hii ni ripoti kuu kwa ufuatiliaji wa bili na kutuma arifa kwa wazazi. Inakuwezesha kuona bili zilizobaki kwa wanafunzi katika Classroom maalum, huku ukiwa na chaguzi za kuchuja kwa Stream na Academic Year. Unapochagua bili yoyote au bili nyingi kwa kubofya kisanduku kilicho karibu na kila bili, mfumo utaonyesha kitufe cha ziada kwenye kona ya juu kulia kutuma arifa kwa wazazi kuhusu bili zilizobaki..
 ![report1.png](report1.png)

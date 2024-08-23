@@ -1,22 +1,16 @@
 # Products
 
-In **LIPA ADA**, a **Product** refers to any item you add to a student’s bill. While items in the **Fee Structure** are also products, this section specifically displays products that are not part of the classroom fee structure. Examples include extra uniforms, study tours, and other additional items. Discounts are also considered products, as they can be applied to reduce the bill amount.
+Katika LIPA ADA, **Product** inamaanisha kitu chochote unachoongeza kwenye bili ya mwanafunzi. Ingawa vitu vilivyo katika **Fee Structure**
+Kuongeza Bidhaa Mpya
 
-When you navigate to **Add Bill** and open the bill editor, you will find a search box on the right side where you can search for and add these products, including those created as fee structure items, to the student’s bill.
-![bil_searcj.png](bil_searcj.png)
+1. Nenda kwenye Products na bofya Add Product.
 
-In this section, we will guide you on how to add new products and discounts so that you can add them in your students bill.
-
-To add a new product:
-
-1. Navigate to **Products** and click **Add Product**.
-2. Enter the product name (e.g., **Extra Uniform**).
-3. Select **Package** as the type.
-4. Enter the default price.
-5. Choose the account to record revenue collected by this product.
-6. Click **Add** to finish.
-
+2. Ingiza jina la bidhaa (kwa mfano, **Extra Uniform**).
+3. Chagua Package kama aina.
+4. Ingiza bei ya kawaida.
+5. Chagua akaunti ya kurekodi mapato yanayokusanywa na bidhaa hii.
+6. Bofya Add kumaliza.
 ![add_prod.png](add_prod.png)
 
-To add a **Discount**, follow the same process, but select **Discount** as the type instead of **Package**.
+Fuata mchakato huo huo, lakini chagua **Discount** kama aina badala ya **Package**
 
