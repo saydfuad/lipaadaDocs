@@ -1,28 +1,27 @@
 # Examination Results
 
-**LIPA ADA** provides two ways to post student examination results:
-1. Excel file import
-2. Directly entering marks in the **LIPA ADA** system
+**LIPA ADA inatoa njia mbili za kuweka matokeo ya mitihani ya wanafunzi:
 
-## Import from Excel File
+1.  Kuagiza kutoka kwenye faili la Excel 
+2. Kuingiza alama moja kwa moja kwenye mfumo wa LIPA ADA
 
-1. Navigate to **Results** and choose **Post**.
-2. Select the **Classroom**, **Stream**, **Term**, and **Year**, then click **Filter**.
-3. Download the provided Excel file and update it with marks for each student.
-4. Upload the updated file and click **Upload Sheet**.
+### Kuagiza kutoka kwenye Faili la Excel
+1. Nenda kwenye **Results** na chagua **Post.**
+2. Chagua **Classroom**, *Stream**, **Term**, na **Year**, kisha bonyeza **Filter.**
+3. Pakua faili la **Excel** lililotolewa na lisasishe kwa alama za kila mwanafunzi.
+4. Pakia faili lililosasishwa na bonyeza **Upload Sheet.**
 
 ![result_import.png](result_import.png)
 
-## Post Results Directly
+## Kuweka Matokeo Moja kwa Moja
 
-1. Navigate to **Results** and choose **Post Direct**.
-2. Select the **Classroom**, **Stream**, **Term**, and **Year**, then click **Filter**.
-3. The system will display a list of students and subjects that you are teaching in that class so that you can post results.
-4. Enter the marks and click **Save**.
+1. Nenda kwenye **Results** na chagua **Post Direct.**
+2. Chagua **Classroom**, **Stream**, **Term**, na **Year**, kisha bonyeza **Filter.**
+3. Mfumo utaonyesha orodha ya wanafunzi na masomo unayofundisha katika darasa hilo ili uweze kuweka matokeo.
+4. Ingiza alama na bonyeza **Save.**
 
 ![direct_result.png](direct_result.png)
 
-## Result Reports View
-
-This section provides two main reports: **Primary Sheet** and **Secondary Sheet**. These reports offer result analysis for all students in a particular **Classroom** and are primarily used for posting results on the school notice board rather than sending them to parents.
+## Mwonekano wa Ripoti za Matokeo
+Sehemu hii inatoa ripoti mbili kuu: Primary Sheet na Secondary Sheet. Ripoti hizi zinatoa uchambuzi wa matokeo kwa wanafunzi wote katika Classroom fulani na hutumika zaidi kwa kuweka matokeo kwenye ubao wa matangazo wa shule badala ya kuwatumia wazazi.
 
