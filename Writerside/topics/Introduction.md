@@ -2,18 +2,17 @@
 
 ---
 
-**Lipa Ada (Empower 4)** is a comprehensive school management system designed specifically for Tanzania. Built with a modular architecture, Lipa Ada allows for the separation of various functionalities and sections of school operations, providing better control and usability.
+Lipa Ada (Empower 4) ni mfumo wa kina wa usimamizi wa shule ulioundwa mahsusi kwa Tanzania. Umejengwa kwa usanifu wa moduli, Lipa Ada inaruhusu utenganisho wa vipengele mbalimbali na sehemu za uendeshaji wa shule, ikitoa udhibiti bora na urahisi wa matumizi.
 
-This documentation provides a step-by-step guide to the core functionalities of the system and common use cases.
-
----
+Hati hii inatoa mwongozo wa hatua kwa hatua kwa vipengele muhimu vya mfumo na matumizi ya kawaida.
 
 ![](introduction.png)
 
-## How to Quick Start
+Jinsi ya Kuanza Haraka
 
-1. Navigate to **Student Records** and add a **Classrooms**. Ensure that you add all **Streams** associated with each **Classroom**.
-2. Navigate to **Student Import**, **Download Template**, and then import students by **Stream**.
-3. Navigate to **Finance** and create your **Fee Groups** (e.g., FIRST TERM, SECOND TERM, and TRANSPORT).
-4. Click on **Fee Structure** for each class and add fee items under their respective **Group**.
-5. Navigate to **Bill** and start adding bills to students. That's it!
+1. Nenda kwenye **Student Records** na ongeza **Classrooms**. Hakikisha unaongeza **Streams** zote zinazohusiana na kila **Classroom**.
+2. Nenda kwenye **Student Import**, **Download Template**, kisha uingize wanafunzi kwa **Stream**.
+3. Nenda kwenye **Finance** na unda **Fee Groups** (kwa mfano, **FIRST TERM**, **SECOND TERM**, na **TRANSPORT**).
+4. Bonyeza kwenye **Fee Structure** kwa kila darasa na ongeza vipengele vya ada chini ya **Group** husika.
+5. Nenda kwenye **Bill**  na anza kuongeza ankara kwa wanafunzi. Hivyo tu!
+
