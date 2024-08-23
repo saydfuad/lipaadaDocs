@@ -1,24 +1,23 @@
 # Setup
 
-Ensure you have registered all your **Classrooms** under **Student Records Module**
+Hakikisha umejisajili **Classrooms** zako zote chini ya **Student Records Module**.
 
-To begin using the admission module, follow these steps to complete the setup:
-
+Ili kuanza kutumia moduli ya kuandikisha wanafunzi, fuata hatua hizi kukamilisha usanidi:
 
 ---
 
 1. **Open Settings**![adm_set.png](adm_set.png)
 2. **Enter Admission Fees**  
-   Specify the admission fee for each classroom.![adm_fee.png](adm_fee.png)
+   Eleza ada ya kuandikishwa kwa kila  classroom.![adm_fee.png](adm_fee.png)
 3. **Enable Admissions**  
-   Open the admission process by selecting **Yes**.![adm_open.png](adm_open.png)
+   Fungua mchakato wa kuandikisha kwa kuchagua **Yes**.![adm_open.png](adm_open.png)
 4. **Select Academic Years**  
-   Choose the academic years for which admissions should be open.![adm_y.png](adm_y.png)
+   Chagua miaka ya masomo ambayo unataka usajili uwe wazi.![adm_y.png](adm_y.png)
 5. **Add a Notice**  
-   Write any notice you want displayed at the top of the admission page.
+   Andika tangazo lolote unalotaka lionyeshwe juu ya ukurasa wa kuandikisha.
 6. **Set Admission Terms and Conditions**  
-   Clearly outline the terms and conditions, such as whether admission is guaranteed or if the admission fee is refundable.![ad_terms.png](ad_terms.png)
-7. Click **Save Chages** to finish
+   Toa maelezo ya wazi ya masharti ya kuandikishwa, kama vile kama kuandikishwa ni uhakika au kama ada ya kuandikishwa inarejeshwa..![ad_terms.png](ad_terms.png)
+7. Bonyeza **Save Chages** ili kumaliza.
 
 ---
 
