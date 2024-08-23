@@ -1,73 +1,71 @@
 # Setup
 
-To begin setting up the **Student Records** module, navigate to the **SETUP** section and follow these steps:
+Ili kuanza usanidi wa Student **Records module**, nenda kwenye sehemu ya **SETUP** na fuata hatua hizi:
 
-## Classroom Registration
-To start using **LIPA ADA** you must have list of **Classroom** as per your school.
+## Usajili wa Classroom
+Ili kuanza kutumia LIPA ADA, lazima uwe na orodha ya Classrooms kulingana na shule yako.
 
-1. Click on **Classes** and then select **Add Classroom** as shown in Figure 1 below. Fill in the required details: **Classroom Name**, **Level**, **Number of Terms**, **Report Card Design**, and set the **Status** to *ACTIVE*.
-2. If your **Classroom** has only one **Stream**, click **Add** to create the classroom. If it has multiple streams, proceed to **Streams** and add each stream (e.g., *A*, *B*, etc.).
-3. We will return later to assign a **Class Teacher** and verify subjects, but this is not necessary for the initial setup.
-
+1. Bonyeza **Classes** kisha chagua **Add Classroom** kama inavyoonyeshwa kwenye Mchoro 1 hapa chini. Jaza maelezo yanayohitajika: **Classroom Name**, **Level**, **Number of Terms**, **Report Card Design**, na weka **Status** kwenye **ACTIVE**.
+2. Ikiwa **Classroom** yako ina **Stream** moja tu, bonyeza **Add** kuunda **classroom**. Ikiwa ina streams nyingi, endelea kwenye **Streams** na ongeza kila stream (k.m., A, B, nk.).
+3. Tutarejea baadaye kuweka **Class Teacher** na kuthibitisha masomo, lakini hii si lazima kwa usanidi wa awali.
 ![add_class.png](add_class.png)
 
-## Student Import
+## Uingizaji wa Wanafunzi
+Tunatoa njia rahisi ya kuingiza wanafunzi wako kutoka kwenye faili la **Excel**. Fuata hatua hizi kukamilisha mchakato:
 
-We provide an easy way to import your students from an Excel file. Follow the steps below to complete the process:
+1. Nenda kwenye **Student Import** na pakua **Template** iliyotolewa.
+2. Tumia template hiyo kujaza rekodi za wanafunzi kulingana na safu zilizobainishwa kwenye faili la **Excel**.
+3. Rejea kwenye LIPA ADA na pakia faili iliyosasishwa. Chagua**Classroom**, **Stream**, na **Academic Year** inayofaa.
+4. Bonyeza **Import** kuthibitisha na kuingiza data. Ikiwa kuna makosa yoyote, mfumo utaonyesha taarifa muhimu kukusaidia kupitia hatua zinazofuata.
+![import.png](import.png) mchoro 1
 
-1. Navigate to **Student Import** and download the provided **Template**.
-2. Use the template to fill in the student records according to the specified columns in the Excel file.
-3. Return to **LIPA ADA** and upload the updated file. Select the appropriate **Classroom**, **Stream**, and **Academic Year**.
-4. Click **Import** to validate and import the data. If there are any errors, the system will display helpful information to guide you through the next steps.
+**Note:** 
+*Lazima ujaze faili tofauti kwa kila  **Stream** ndani ya **Classroom***
 
-![import.png](import.png) Figure 1
-**Note:** *You must fill a separate file for each **Stream** within the same **Classroom***
+## Usajili wa Masomo
+Kuongeza **Subjects** kwenye **Classroom** si lazima kuanza kutumia LIPA ADA **Finance na Admission modules**, lakini ni muhimu ikiwa unahitaji kufuatilia matokeo ya wanafunzi.
 
-## Subjects Registration
+Ili kuanza kuongeza **Subjects**, fuata hatua hizi:
 
-Adding **Subjects** to a **Classroom** is not mandatory to start using **LIPA ADA** Finance and **Admission** modules, but it is necessary if you need to track student results.
+1. Nenda kwenye **Subjects** na bonyeza **Add Subject**.
+2. Jaza fomu kama inavyoonyeshwa kwenye Mchoro 2 hapa chini. Sehemu muhimu kuzingatia:
+      **Subject Name:** Hii inapaswa kufanana na jina la somo hilo katika Classrooms zote.
+      **Classroom:** Chagua **Classroom** ambapo unataka kuongeza **Subject** hii.
+     **Subject Code:** Kwa mfano, kwa Kiingereza kinachofundishwa Darasa la 6, unaweza kutumia ENG6.
+3. Tumepanga alama za somo katika TEST 1, TEST 2, na EXAM. Weka asilimia ya uzito kwa kila moja kama inavyohitajika.
+4. Chini ya **Classification**, chagua **Mandatory** ikiwa **Subject** ni ya lazima na itazingatiwa wakati wa kutathmini utendaji wa mwanafunzi.
+5. Ikiwa tayari umesajili watumiaji kama **Teachers**, unaweza kumuweka mwalimu kwenye somo hili kwa darasa lililochaguliwa, lakini hii si lazima katika hatua hii. Kumbuka: Mwalimu aliyesajiliwa tu kwenye somo anaweza kuweka matokeo kwa kutumia **Direct Post.**
+6. Bonyeza **Add** kumaliza kuongeza **Subject.** Rudia mchakato kwa **Subjects** zote katika darasa hilo. 
 
-To start adding **Subjects**, follow these steps:
+![subjects.png](subjects.png) mchoro  2
 
-1. Navigate to **Subjects** and click **Add Subject**.
-2. Fill in the form as shown in Figure 2 below. Important fields to consider:
-    - **Subject Name**: This should match the name of the same subject across all **Classrooms**.
-    - **Classroom**: Select the **Classroom** where you want to add this **Subject**.
-    - **Subject Code**: For example, for English taught in Grade 6, you could use **ENG6**.
-3. We have grouped subject marking into **TEST 1**, **TEST 2**, and **EXAM**. Define the percentage weight for each as needed.
-4. Under **Classification**, choose **Mandatory** if the **Subject** is required and will be considered when evaluating student performance.
-5. If you have already registered users as **Teachers**, you can assign a teacher to this subject for the selected class, but this is not mandatory at this stage.**Note:** *Only teacher assigned to subject can post results using **Direct Post***
-6. Click **Add** to finish adding the **Subject**. Repeat the process for all other **Subjects** in the same class.
-![subjects.png](subjects.png) Figure 2
+## Usanidi wa Daraja
+LIPA ADA inatumia mfumo wako wa upangaji wa alama kuchambua matokeo na kutoa maarifa muhimu kuhusu utendaji wa wanafunzi. Kwa kuwa huu ni usanidi wa mara moja, chukua muda wa ziada kuhakikisha usahihi.
 
-## Grade Setup
+Kuunda mfumo wa upangaji wa alama ni rahisi; fuata tu hatua hizi:
 
-**LIPA ADA** uses your grading system to analyze results and provide valuable insights into student performance. Since this is a one-time setup, take extra time to ensure accuracy.
+1. Nenda kwenye **Grade** na bonyeza **Add Grade.**
+2. Sanduku litafunguka, likikuruhusu kuchagua **Grading System Structure.** Chagua **Level Based Grading**, ambayo ni ya kawaida kwa hali nyingi.
+3. Chagua **Level** husika (mfano, Sekondari).
+4. Weka **Minimum** na **Maximum** za alama, na chini ya **Symbol**, weka daraja (k.m., A, B, C).
+5. Tumia sehemu ya **Definition** kuongeza maelezo ya daraja (k.m., **EXCELLENT** kwa daraja A).
 
-Setting up the grading system is straightforward; just follow these steps:
+**Note:**
+  Wakati wa kuongeza alama kwa Level fulani, hakikisha kwamba viwango vya chini na juu vinafunika alama zote ambazo mwanafunzi anaweza kupata. Kwa mfano, ikiwa utaweka kiwango cha chini kuwa 0 na cha juu kuwa 34 kwa F, na kisha ukaweka kiwango cha chini kuwa 36 na cha juu kuwa 54 kwa D, utapoteza daraja kwa mwanafunzi aliyepata 35, kwani haitakuwa ndani ya viwango vilivyobainishwa.
+![grade.png](grade.png) mchoro 3
 
-1. Navigate to **Grade** and click **Add Grade**.
-2. A box will open, allowing you to choose a **Grading System Structure**. Select **Level Based Grading**, which is common for most situations.
-3. Choose the relevant **Level** (e.g., Secondary).
-4. Enter the **Minimum** and **Maximum** values for the range, and under **Symbol**, enter the grade (e.g., A, B, C).
-5. Use the **Definition** field to add a remark for the grade (e.g., **EXCELLENT** for grade **A**).
+## Maoni ya Ripoti
+Badala ya kuandika maoni moja kwa moja kwenye ripoti ya kila mwanafunzi, LIPA ADA inakuruhusu kuweka maoni ya awali kulingana na wigo wa alama za mwanafunzi. Maoni haya yanaweza kuwekwa kando kwa **Head Teacher** (Principal) na **Class Teacher**.
 
-**Note:** When adding grades for a particular **Level**, ensure that the minimum and maximum values cover all possible marks that a student might achieve. For example, if you set the minimum as 0 and the maximum as 34 for **F**, and then set the minimum as 36 and the maximum as 54 for **D**, you will miss the grade for a student who scores 35, as it wouldn't fall within any of the defined ranges.
-![grade.png](grade.png) Figure 3
+Ili kuweka maoni ya awali kwenye ripoti, fuata hatua hizi:
 
-## Report Card Comments
+1. Nenda kwenye **Report Comments** na bonyeza **Add Comment.**
+2. Chagua **Level** (mfano, **Secondary**) na chagua kama maoni ni ya **Principal** au **Class Teacher.**
+3. Andika maoni halisi unayotaka yaonekane kwenye ripoti ya mwanafunzi.
+4. Weka wigo wa alama za wastani za chini na za juu ambazo zitafanya maoni haya yaonekane kwenye ripoti ya mwanafunzi.
+5. Rudia mchakato huu kwa kila wigo wa alama, kama inavyoonyeshwa kwenye Mchoro 4 hapa chini.
 
-Instead of manually writing comments on each student's report card, **LIPA ADA** allows you to predefine comments based on a range of student scores. These comments can be set separately for the **Head Teacher (Principal)** and the **Class Teacher**.
-
-To set up predefined report card comments, follow these steps:
-
-1. Navigate to **Report Comments** and click **Add Comment**.
-2. Select the **Level** (e.g., **Secondary**) and choose whether the comment is for the **Principal** or the **Class Teacher**.
-3. Write the actual comment you want to appear on the report card.
-4. Enter the **Minimum** and **Maximum** average score range that will trigger this comment to appear on a student's report card.
-5. Repeat this process for each possible score range, as shown in Figure 4 below.
-
-![comments.png](comments.png) Figure 4
+![comments.png](comments.png) mchoro 4
 
 
 

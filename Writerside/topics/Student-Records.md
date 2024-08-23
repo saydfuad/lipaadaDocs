@@ -1,10 +1,10 @@
 # Student Records Module
 
-The **Student Records** module is the core of the system, where all initial setup tasks are completed. This includes the creation of **Classrooms** and the importation of student data, which are essential steps to perform before you start using **LIPA ADA** effectively.
+**Student Records module** ni kiini cha mfumo, ambacho ndiko kazi zote za awali za usanidi hukamilishwa. Hii inajumuisha kuunda **Classrooms** na kuingiza data za wanafunzi, ambazo ni hatua muhimu kufanya kabla ya kuanza kutumia LIPA ADA kwa ufanisi.
 
-This module provides the foundation for managing all student-related information, including assigning students to classrooms, updating records, and tracking academic progress. Accurate setup in this module is crucial as it directly impacts the functionality of other modules, such as billing, attendance, and reporting.
+Moduli hii inatoa msingi wa kusimamia taarifa zote zinazohusiana na wanafunzi, ikijumuisha kuwagawanya wanafunzi kwenye **Classrooms**, kusasisha rekodi, na kufuatilia maendeleo ya kitaaluma. Usanidi sahihi katika moduli hii ni muhimu sana kwani unaathiri moja kwa moja utendaji wa moduli nyingine, kama vile bili, mahudhurio, na ripoti.
 
-In this section, we will guide you through the necessary steps to set up your student records, ensuring your school’s data is organized and ready for efficient management through **LIPA ADA**
+Katika sehemu hii, tutakuongoza kupitia hatua muhimu za kuandaa rekodi za wanafunzi wako, kuhakikisha data za shule yako zimepangwa vizuri na ziko tayari kwa usimamizi mzuri kupitia **LIPA ADA**.
 
 
 ![st_record.png](st_record.png)

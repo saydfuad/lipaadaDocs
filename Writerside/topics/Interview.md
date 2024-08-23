@@ -2,8 +2,5 @@
 
 ---
 
-This section provides options to view all applications selected for interviews, with filtering capabilities by interview date and time, classroom, or by searching for a specific student's name. You can easily click the **Post Result** button next to each application to mark it as **PASSED** or **FAILED**, as shown below.
-
----
-
+Sehemu hii inatoa chaguzi za kuona maombi yote yaliyochaguliwa kwa mahojiano, ikiwa na uwezo wa kuchuja kwa tarehe na muda wa mahojiano, **Classroom**, au kwa kutafuta jina la mwanafunzi maalum. Unaweza kwa urahisi kubonyeza kitufe cha **Post Result** kando ya kila ombi ili kuweka kama **PASSED** au **FAILED**, kama inavyoonyeshwa hapa chini.
 ![intervew.png](intervew.png)
