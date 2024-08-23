@@ -2,16 +2,17 @@
 
 ---
 
-This module allows schools to streamline their admission process by enabling online applications. Schools can easily share their application link with parents through advertisements and social media, making the process accessible and convenient.
 
-In addition to facilitating online payments, the module implements robust financial controls, ensuring a smooth and secure transaction process.
+Moduli hii inarahisisha shule katika mchakato wa kuandikisha wanafunzi kwa kuruhusu maombi kufanywa mtandaoni. 
+Shule zinaweza kutuma kiungo cha **application** kwa wazazi kupitia matangazo na mitandao ya kijamii, na kufanya mchakato huu upatikane kirahisi na kwa urahisi.
 
-The module also provides essential tools for managing the admission process, including scheduling interviews, assessing students, and assigning them to the appropriate classrooms. Throughout the process, parents receive timely updates via SMS, keeping them informed about the status of their child's application.
+Pia, moduli hii inaruhusu malipo kufanywa mtandaoni, ikihakikisha udhibiti wa fedha ni salama na rahisi.
 
+Moduli hii inasaidia pia kusimamia mchakato wa kuandikisha wanafunzi kwa zana muhimu kama kupanga mahojiano, kupima wanafunzi, na kuwaweka kwenye classrooms zinazofaa. Wazazi wanapata taarifa kwa wakati kupitia SMS, wakijulishwa kuhusu hatua za maombi ya mtoto wao.
 
+**Note:**
 
-_**Note:** To ensure this module functions correctly, you need to create an **Operating Revenue** account and set it as the default account for recording admission revenue. This can be done under Administrator Settings. Although we typically set this up for you, please double-check to ensure it’s configured to meet your specific needs._
+Ili moduli hii ifanye kazi vizuri, unahitaji kufungua akaunti ya **Operating Revenue** na kuiweka kama akaunti ya kudumu kwa mapato ya kuandikisha wanafunzi. Hii inaweza kufanywa kwenye Mipangilio ya Msimamizi. 
+Ingawa mara nyingi tunafanya hii kwa ajili yako, tafadhali hakikisha imepangwa vizuri ili kutosheleza mahitaji yako.
 
-
----
 ![admission_module.png](admission_module.png)
