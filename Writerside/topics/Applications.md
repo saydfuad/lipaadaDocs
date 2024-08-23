@@ -2,17 +2,16 @@
 
 ---
 
-This section lists all applications submitted by parents, allowing you to filter them by status to view **PAID** and **UNPAID (NEW)** applications and also filter them by **Classroom**. Next to each application entry, there is a **Decision** button that opens a **Decision Box**. This box provides options to either call for an interview, proceed with further processing, or reject the application (see Figures 1 & 2 below).
+Sehemu hii inaorodhesha maombi yote yaliyoletwa na wazazi, ikiruhusu kuchuja kwa hali ili kuona maombi **PAID** na **UNPAID (NEW)** na pia kuchuja kwa **Classroom.**
+Kando ya kila orodha ya maombi, kuna kitufe cha **Decision** ambacho kinafungua **Decision Box**. Sanduku hili linatoa chaguzi za kuita kwa mahojiano, kuendelea na usindikaji zaidi, au kupuuza ombi (angalia Mchoro 1 & 2 hapa chini).
 
-Additionally, this section enables you to make bulk decisions. You can select multiple applications using the checkboxes at the beginning of each entry and then click the **Bulk Decision** button located in the top right corner of the section as shown in figure 3.
-
----
+Zaidi ya hayo, sehemu hii inaruhusu kufanya maamuzi kwa wingi. Unaweza kuchagua maombi mengi kwa kutumia masanduku ya kuchagua mwanzoni mwa kila orodha kisha bonyeza kitufe cha **Bulk Decision** kilichopo katika kona ya juu kulia ya sehemu hii kama inavyoonyeshwa kwenye Mchoro 3.
 
 ![app_f1.png](app_f1.png)
-Figure 1
+Mchoro 1
 
 ![addp_f2.png](addp_f2.png)
-Figure 2
+Mchoro 2
 
 ![app_f3.png](app_f3.png)
-Figure 3
+Mchoro 3
