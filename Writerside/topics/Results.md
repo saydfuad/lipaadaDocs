@@ -1,28 +1,52 @@
 # Examination Results
 
-**LIPA ADA** provides two ways to post student examination results:
-1. Excel file import
-2. Directly entering marks in the **LIPA ADA** system
+**LIPA ADA** provide one way to post student examination results:
+1. Post **post result with excel file**
 
-## Import from Excel File
-
+## post result with excel file 
 1. Navigate to **Results** and choose **Post**.
 2. Select the **Classroom**, **Stream**, **Term**, and **Year**, then click **Filter**.
 3. Download the provided Excel file and update it with marks for each student.
 4. Upload the updated file and click **Upload Sheet**.
+![](post.PNG)
 
-![result_import.png](result_import.png)
 
-## Post Results Directly
+### 1. View Student Results
+LIPA ADA allows authorized users to view student results in different categories:
 
-1. Navigate to **Results** and choose **Post Direct**.
-2. Select the **Classroom**, **Stream**, **Term**, and **Year**, then click **Filter**.
-3. The system will display a list of students and subjects that you are teaching in that class so that you can post results.
-4. Enter the marks and click **Save**.
+- **Nursery and Primary Sheet** – Displays results for early years and primary level students.
+1. Navigate to **Results** and choose **Nursery & Primary**.
+2. Select the **Classroom**, **Stream**, **Term** , **Year** and **display** choose either show marks to display marks or hide marks to hide marks, then click **Filter**.
+ ![](nur&pr.PNG)
 
-![direct_result.png](direct_result.png)
+- **Secondary Sheet** – Displays results for secondary level students.
+1. Navigate to **Results** and choose **Secondary Sheet**.
+2. Select the **Classroom**, **Stream**, **Term** , **Year** and **display** choose either show marks to display marks or hide marks to hide marks, then click **Filter**.
+  ![](sec sheet_2.PNG)
 
-## Result Reports View
+## Subject Sheet
+It define grading systems or weightings per subject.
+1. Navigate to **Results** and choose **Subject Sheet**.
+2. Select the **Class**, **Stream**, **Term** and **Year**, then click **Filter**.
+ ![](sub sheet_2.PNG)
 
-This section provides two main reports: **Primary Sheet** and **Secondary Sheet**. These reports offer result analysis for all students in a particular **Classroom** and are primarily used for posting results on the school notice board rather than sending them to parents.
+## Teachers Sheet
+It manage teacher records and performance metrics.
+1. Navigate to **Results** and choose **Teacher Sheet**.
+2. Select **Education level** ,**Term**, and **Year**, then click **Filter**.
+![](teach sheet_2.PNG)
+
+## Managed Result
+the **Managed Result** section in the **LIPA ADA** allows administrators and teachers to view, filter, and manage student examination results efficiently.
+1. Navigate to **Results** and choose **Managed Result**.
+2. Select **Classroom**, **Stream**, **Term** ,**Year** and **Status** - Select the result status to view (e.g, Published or not published).
+3. In the **Search Students** box, enter a student’s **name** or **registration number** then click **Filter Results**.
+
+## Clear Filter option 
+- To reset all selections and start over, click the **“Clear”** button next to the Filter Results button.
+
+![](managed result.PNG)
+
+
+
 
