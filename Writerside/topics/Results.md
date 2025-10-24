@@ -22,7 +22,8 @@ LIPA ADA allows authorized users to view student results in different categories
 - **Secondary Sheet** – Displays results for secondary level students.
 1. Navigate to **Results** and choose **Secondary Sheet**.
 2. Select the **Classroom**, **Stream**, **Term** , **Year** and **display** choose either show marks to display marks or hide marks to hide marks, then click **Filter**.
-  ![](sec sheet_2.PNG)
+ 
+![](sec sheet_2.PNG)
 
 ## Subject Sheet
 It define grading systems or weightings per subject.

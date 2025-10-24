@@ -69,5 +69,272 @@ To set up predefined report card comments, follow these steps:
 
 ![comments.png](comments.png) Figure 4
 
+## Timetable
+### Managed Timetable
+The **Manage Timetable** page in **Lipa Ada** allows administrators to create, edit, view, and organize class timetables for all subjects, teachers, and rooms within the school.  
+This ensures that all teaching activities are well-structured and no scheduling conflicts occur.
+To set up timetable, follow these steps:
+
+---
+##  Step-by-Step Workflow
+
+### **Step 1 — Navigate to the Timetable Module**
+- Go to:  
+  **SETUP → Timetable → Manage Timetable**
+- The *Manage Timetables* interface will open, as shown in the image.
+
+![](manage timetable.PNG)
+
+### **Step 2 — Understand the Page Layout**
+The page contains the following main components:
+---
+ **Search Timetable** A search bar to quickly find specific timetables by class, day, or subject. 
+ **Table Display** Shows all existing timetable entries for review and management. 
+ **Action Buttons** Located at the top right — used to generate, add, or export timetables.
+---
+### **Step 3 — Review the Timetable Table**
+Each row in the table represents one schedule entry with the following details:
+ **CLASS** The class or grade level (e.g., Grade 7, Form 2). 
+ **DAY** The weekday for that lesson (e.g., Monday). 
+ **PERIOD** The lesson period or time slot (e.g., Period 1). 
+ **SUBJECT** The subject being taught (e.g., Mathematics). 
+ **TEACHER** The assigned teacher for that subject and time. 
+ **ROOM** The classroom or lab where the lesson will take place. 
+ **STATUS** Indicates whether the timetable is active or inactive. 
+ **ACTIONS** Icons for managing each timetable record (view, edit, delete).
+---
+### **Step 4 — Use Action Buttons**
+At the **top right corner** of the page, you’ll find several key buttons:
+**Auto Generate** Green in color - Automatically generate a timetable based on system rules. 
+**Grid View** Blue in color - Displays all timetable entries in a grid (visual schedule layout). 
+**Add Timetable** Sky Blue color - Manually add a new timetable entry. 
+**Export** Orange in color - Export the timetable data (e.g., to Excel or PDF).
+---
+
+### **Step 5 — Manage Existing Entries**
+In the **Actions** column on the right of each row:
+ **View (Blue)** - Opens detailed view of a timetable record. 
+ **Edit (Black)** - Allows modification of an existing timetable entry. 
+ **Delete (Red)** - Permanently removes the selected timetable.
+---
+### **Step 6 — Auto Generate Timetable**
+- Click **Auto Generate** to let the system automatically create a schedule based on:
+    - Defined **class periods**
+    - Available **teachers**
+    - Assigned **subjects**
+    - Configured **rooms**
+- This saves time and prevents double-booking of teachers or rooms.
+---
+### **Step 7 — Add a New Timetable**
+- Click **Add Timetable (+)**
+- Fill in:
+    - **Class**, **Day**, **Period**
+    - **Subject**
+    - **Teacher**
+    - **Room**
+- Click **Save** to create the entry.
+---
+### **Step 8 — Export or View Grid Layout**
+- Use **Grid View** to visualize the timetable by day and class.
+- Use **Export** to generate a printable copy for administration or display.
+---
+
+### Auto Generator
+Automatically creates timetables for selected classes using a **smart scheduling algorithm**.
+To starting set auto generator timetable, follow this steps:
+1. Navigate | Go to **Setup → Timetable → Manage Timetable** 
+2. Review | Check or edit existing timetables 
+3.  Auto Generate | Click **Auto Generate** for automated scheduling 
+4.  Configure | Set class, periods/day, teacher limits, and mode 
+5.  Generate | Click **Generate Timetable** 
+6. Review | View generated timetable and adjust manually if needed 
+Fill in the form as shown in Figure  below. Important fields to consider:
+![](C:\Users\admin\Desktop\lipaada doc update phpstorm\auto generate.PNG)
+-  **Generation Settings**
+This area lets you define how the automatic timetable will be generated.
+ **Select Class**  Choose the class whose timetable you want to generate. 
+ **Max Periods/Day**  Maximum number of lessons per day (e.g., 8). 
+ **Teacher Max/Day**  Maximum number of lessons per teacher per day. 
+ **Lunch Period**  Time slot reserved for lunch breaks. 
+ **Performance Mode**  Controls how fast and detailed the generation will be. Options: Fast, Balanced, Thorough.
+---
+- **Options**
+These checkboxes help refine generation behavior:
+**Clear existing timetable** Deletes any previous timetable for the selected class before generating a new one. |
+**Include lunch breaks** Ensures lunch periods are added automatically. |
+**Balance teacher workload** Distributes classes evenly across teachers to prevent overloading. |
+
+- **Performance Modes**
+Choose how the system generates schedules depending on speed and quality.
+ **Fast**  50 attempts, 10s Quick generation with basic balancing. 
+ **Balanced** 500 attempts, 25s  Default mode – good balance of speed and accuracy. 
+ **Thorough** 2000 attempts, 45s Best quality with full workload optimization.
+
+- **Generation Log**
+  Displays progress or errors during the timetable generation process.
+ **Log Output**  Shows live updates during generation. 
+ **Clear Button** | Resets the log area for new generation runs. 
+
+### **How It Works**
+  The **Smart Algorithm** automatically:
+- Analyzes subject requirements.
+- Balances teacher workloads.
+- Optimizes classroom and room usage.
+- Avoids teacher double-booking and scheduling conflicts.
+
+**Constraints applied:**
+- Core subjects are placed in the morning.
+- Physical activities scheduled in the afternoon.
+- Daily workload is balanced for each teacher and class.
+---
+
+####  **Quality Scoring**
+After generation, the timetable receives a **quality score** based on efficiency and fairness:
+90–100%  **Excellent** 
+70–89%  **Good** 
+50–69%  **Acceptable**
+Below 50%  Needs improvement
+---
+
+####  **Generation Log**
+Displays progress or errors during the timetable generation process.
+**Log Output**  Shows live updates during generation. 
+**Clear Button**  Resets the log area for new generation runs.
+---
+
+#### **Generate Timetable Button**
+Once all settings are configured:
+1. Select the desired class.
+2. Adjust the performance mode.
+3. Click **Generate Timetable**.
+4. Wait for the algorithm to complete (usually 20–30 seconds).
+5. Review results in **Manage Timetable** or **Grid View**.
+---
+
+### **Navigation Buttons**
+ **Back to List**  Returns to Manage Timetable page. 
+ **Grid View**  Switches to the timetable visualization interface.
+---
+
+### Timetable Grid
+Displays the weekly timetable visually by **day and time period**.  
+
+##Steps:
+1. Navigate to **Timetable** click **Timetable Grid**
+2. **Select class dropdown** Choose which class timetable to view. 
+3. **Week Filter:** Switch between current or past/future weeks. 
+4. **List View / Print Buttons:** Switch display format or print the grid. 
+
+![](timetable grid.PNG)
+
+### Summary 
+**Timetable Table:** Shows each day’s schedule with time slots.
+- *Free Period* – no subject assigned
+- *Regular Period* – subject assigned
+- **Quick Stats:**
+    - Filled Slots
+    - Free Slots
+    - Coverage percentage
+- **Legend:** Explains color codes
+    - 🟦 Regular Subject
+    - 🟧 Break / Non-Academic
+    - ⬜ Free Period
+
+**Usage Tip:**  
+Use **Timetable Grid** after generation or manual edits to verify that all periods are correctly allocated.
+
+### Manage Room
+Define and manage available rooms and learning spaces used in scheduling.
+### To access the **Manage Rooms** section:
+1. Go to **Timetable** click **Manage Rooms** 
+ ![](manage room.PNG)  
+### Steps to **Add Room**
+### Step 1: Open Manage Rooms
+- Go to the **Setup** menu on the sidebar.
+- Click **Timetable**.
+- Select **Manage Rooms** from the dropdown.
+- The system will display the list of existing rooms (if any).
+
+---
+
+### Step 2: Click on "Add Room"
+- Click the **Add Room** button (usually at the top-right or above the list).
+- A form will appear for entering room details.
+---
+
+### Step 3: Fill in Room Details
+Enter the following fields:
+- **Room Name** → Example: *Science Lab*, *Classroom 1A*
+- **Room Type** → Choose *Classroom*, *Lab*, *Computer Room*,Library,Hall etc.
+- **Capacity** → Number of seats that can fit in the room
+- **Room Code** → example: **SL1, ** CLA**
+- **Status** → Set as *Active* or *Inactive*
+- **Description** → additional details about the room.
+---
+
+### Step 4: Save the Room
+- After filling in details, click the **Add** button.
+- The new room will now appear in the room list and become available for timetable allocation.
+![](add room.PNG)
+
+## Additional Options
+- **Edit Room:** Modify an existing room’s details.
+- **Delete Room:** Remove a room from the system (only if not in use).
+- **Search/Filter:** Quickly locate rooms by name or type.
+
+##Notes
+- Rooms must be created **before** generating or assigning timetables.
+- Ensure each room has a **unique name** to prevent confusion in scheduling.
+- Room assignments are automatically optimized by the **Auto Generator**.
+
+### Set Period
+The **Set Period** feature in **Lipa Ada** defines the daily structure of class sessions.  
+Each period represents a specific block of time during which a subject or activity takes place.  
+Setting periods ensures proper timetable generation and scheduling.
+
+### To access the **Set Period** section:
+1. Navigate to **Timetable** click **Set Period**
+![](set period.PNG)
+
+## Steps to **Add Period**
+### Step 1: Open Set Period Page
+- From the **Setup** menu on the left sidebar, click **Timetable**.
+- Choose **Set Period** from the dropdown list.
+- The system will display all existing periods in a tabular list (if any are already configured).
+---
+
+### Step 2: Click **Add  Period**
+- Press the **Add Period** button (usually on the top-right of the page).
+- A form will appear to enter new period details.
+---
+### Step 3: Fill in Period Details
+Provide the following details in the form:
+**Start Time**  The time the period begins  e.g *08:00 AM* 
+**End Time**  The time the period ends  *09:00 AM* 
+**Title** e.g **regular Period**, **Break**
+**Level** choose level e.g **Nur**, **prim** , **Sec** and **Advance**.
+---
+
+### Step 4: Save the Period
+- Click **Add**  to confirm your entry.
+- The new period will now be listed in the table and available for use in timetable generation.
+---
+
+###  Additional Actions
+- **Edit:** Modify timing or name of an existing period.
+- **Delete:** Remove a period (only if not yet used in any timetable).
+---
+![](add period.PNG)
+## 💡 Notes
+- Periods must be set before using **Auto Generator** or **Manage Timetable**.
+- Avoid overlapping time ranges to prevent scheduling conflicts.
+- Ensure lunch or break periods are clearly marked for accurate timetable creation.
+---
 
 
+
+ 
+
+
+
+ 
