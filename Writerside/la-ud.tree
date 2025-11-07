@@ -42,4 +42,6 @@
     <toc-element topic="Beep-Cards.md"/>
     <toc-element topic="Library-md.md"/>
     <toc-element topic="Book-md.md"/>
+    <toc-element topic="Borrowings.md"/>
+    <toc-element topic="Setting-Lib.md"/>
 </instance-profile>
