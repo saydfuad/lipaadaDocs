@@ -20,6 +20,9 @@ Step 3: Add New Book
 2. Fill in **Title** , **Author** , **Publisher** , **ISBN** ,**Published Year**, **Location**, **Number of Copies** .
 3. Click **Add Book** to save.
 
+![](add book.PNG)
+
+
 Step 4: Manage Book Records
 1. Edit — Modify any book detail if needed.
 2. Delete — Remove a record permanently.
