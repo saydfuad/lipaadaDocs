@@ -149,7 +149,7 @@ To starting set auto generator timetable, follow this steps:
 5.  Generate | Click **Generate Timetable** 
 6. Review | View generated timetable and adjust manually if needed 
 Fill in the form as shown in Figure  below. Important fields to consider:
-![](C:\Users\admin\Desktop\lipaada doc update phpstorm\auto generate.PNG)
+![](auto generate.PNG)
 -  **Generation Settings**
 This area lets you define how the automatic timetable will be generated.
  **Select Class**  Choose the class whose timetable you want to generate. 
@@ -247,7 +247,9 @@ Use **Timetable Grid** after generation or manual edits to verify that all perio
 Define and manage available rooms and learning spaces used in scheduling.
 ### To access the **Manage Rooms** section:
 1. Go to **Timetable** click **Manage Rooms** 
- ![](manage room.PNG)  
+
+ ![](manage room.PNG)
+
 ### Steps to **Add Room**
 ### Step 1: Open Manage Rooms
 - Go to the **Setup** menu on the sidebar.
@@ -275,6 +277,7 @@ Enter the following fields:
 ### Step 4: Save the Room
 - After filling in details, click the **Add** button.
 - The new room will now appear in the room list and become available for timetable allocation.
+
 ![](add room.PNG)
 
 ## Additional Options
@@ -294,6 +297,7 @@ Setting periods ensures proper timetable generation and scheduling.
 
 ### To access the **Set Period** section:
 1. Navigate to **Timetable** click **Set Period**
+
 ![](set period.PNG)
 
 ## Steps to **Add Period**

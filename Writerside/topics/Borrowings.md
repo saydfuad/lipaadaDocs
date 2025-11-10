@@ -18,7 +18,7 @@ Step 2: View Existing Borrowings
 ## How to Issue a Book
 Step 1. Click **Add Issue Book**
    - In the top-right corner of the Borrowings page, click the **+ Issue Book** button.
-   - A form titled Add Issue Book to student appears.
+   - A form titled **Add Issue Book to student** appears.
 
 Step 2. Fill in Borrowing Details
   - Enter the required information **Book**, **Student** , **Start Date**, **Description**. 

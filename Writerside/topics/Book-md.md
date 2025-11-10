@@ -16,7 +16,7 @@ Step 2: View Book Records
 ![](book.PNG)
 
 Step 3: Add New Book
-1. Click the **+ Add Book** button at the top right corner.
+1. Click the **+ Add Book** button in the top right corner.
 2. Fill in **Title** , **Author** , **Publisher** , **ISBN** ,**Published Year**, **Location**, **Number of Copies** .
 3. Click **Add Book** to save.
 

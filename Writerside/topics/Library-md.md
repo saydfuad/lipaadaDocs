@@ -24,7 +24,7 @@ The **Recent Activities** section lists the latest transactions within the libra
  **Book** Displays the title or name of the borrowed or returned book. 
  **Student** Identifies the student involved in the borrowing or returning process. 
  **Activity** Indicates the type of transaction (e.g., Borrowed, Returned, Overdue). 
- **Date**  Shows when the activity occurred. 
+ **Date**  Shows when the activity occurred.
 
  *If no activities are shown, it means there are currently no recent book transactions.*
 
