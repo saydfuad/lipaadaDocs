@@ -24,8 +24,8 @@ BeepCards are used for **attendance tracking**, **cashless payments**, or **stud
 8. Repeat for other **Student**
    -Continue assigning or updating BeepCards for all students as needed. 
    -Use the search and filters to move between classes or years efficiently.
-
+  
  ![beep.png](beep.PNG)
 
 
-
+ 
