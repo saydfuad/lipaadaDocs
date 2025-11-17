@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="121139c0">
+        <description>Created after removal of "Starter" from Instance Name</description>
+        <accepts>starter.html</accepts>
+    </rule>
+    <rule id="2f4c98b0">
+        <description>Created after removal of "Edit Bill" from Lipa Ada - Empower 4</description>
+        <accepts>Edit-Bill.html</accepts>
+    </rule>
+</rules>
