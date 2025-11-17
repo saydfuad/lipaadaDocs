@@ -4,7 +4,7 @@
 **Attendance** in the **LIPA ADA** is used to record and display **daily student attendance** for each class.Teachers use this module to track which students are **Present**, **Absent**,  
 or **Reported** on a given school day.
 
----
+
 ## View  Daily Attendance
 1. Go to  **Attendance**.
 2. Select the **Date*, **Classroom** , **Stream**, and **Year**.
