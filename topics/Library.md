@@ -1,4 +1,4 @@
-# Library.md
+# Library
 
 The **Library Module** in **Lipa Ada** manages and tracks all school library operations.  
 It provides an at-a-glance view of **total books**, **borrowed items**, **available copies**, and **overdue returns**, along with a **recent activity log** for library transactions.
