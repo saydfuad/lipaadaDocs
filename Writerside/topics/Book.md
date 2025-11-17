@@ -1,4 +1,4 @@
-# Book.md
+# Book
 
 This section under the **Library Module** in LIPA ADA is designed to help manage and organize all book records in the school library.
 It allows librarians or administrators to view, add, edit, and delete books efficiently.
