@@ -1,7 +1,7 @@
 # Setting Lib
 
 ---
-this section is where administrators can configure general library information, manage librarians, and organize sections.
+This section is where administrators can configure general library information, manage librarians, and organize sections.
 
 ---
 ## 1. General Settings

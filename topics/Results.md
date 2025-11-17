@@ -3,7 +3,7 @@
 **LIPA ADA** provide one way to post student examination results:
 1. Post **post result with excel file**
 
-## post result with excel file 
+## Post result with excel file 
 1. Navigate to **Results** and choose **Post**.
 2. Select the **Classroom**, **Stream**, **Term**, and **Year**, then click **Filter**.
 3. Download the provided Excel file and update it with marks for each student.

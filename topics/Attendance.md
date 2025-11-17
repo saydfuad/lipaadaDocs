@@ -5,7 +5,7 @@
 or **Reported** on a given school day.
 
 ---
-## view  Daily Attendance
+## View  Daily Attendance
 1. Go to  **Attendance**.
 2. Select the **Date*, **Classroom** , **Stream**, and **Year**.
 3. The **Student List** will appear.

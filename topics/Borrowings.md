@@ -1,8 +1,8 @@
 # Borrowings
----
-this section in the **Library Module** of LIPA ADA manages all activities related to issuing and returning books.
+
+This section in the **Library Module** of LIPA ADA manages all activities related to issuing and returning books.
 It helps track which student has borrowed which book, the borrowing date, return date, and status (e.g., returned or overdue).
----
+
 ## Navigation Steps
 Step 1: Open Library Module
   - From the left sidebar, click on Library.

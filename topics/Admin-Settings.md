@@ -1,10 +1,9 @@
-# Admin_Settings
+# Admin Settings
 
----
 ## Manager users
 This section allows administrators to view, add, and manage user accounts and includes features for
 searching users by name or email, adding new users, managing user roles and permissions and viewing user details such as **name**, **email**, **phone**.
----
+
 ## Steps to add user
 1. Login as admin   - open the **lipa ada** system and sign in using your **Admin credentials**.
 2. Navigate to **Manage Users**
@@ -17,7 +16,7 @@ searching users by name or email, adding new users, managing user roles and perm
    - After adding confirm the user appears in the **user list** table , send login credentials to the user via email or SMS.
    - The user can now log in using the provided credentials.
 ![](manage users.PNG)
-## search functionality
+## Search functionality
 There is a **Search user** input box that allows the admin to quickly locate a user by typing their **Name**, **email**, or **Phone number**.
 
 ## + Add User
@@ -27,12 +26,12 @@ The **Add user** button opens a form where the admin can register a new user by 
 ## Manage Roles
 The **Manage Roles** button allows the admin to define or update user role and permissions.
 example roles: (**Admin**, **Teacher**, **Accountant**, **Student**).
----
+
 ## Entity Setting
 ### General Settings
 The **General Settings** section in **Lipa Ada** allows administrators to configure key system-wide preferences.  
 These settings control how academic years, terms, accounting features, and branding elements behave across the Lipa Ada.
----
+
 ## Steps to configure general setting
 1. Login as **Admin**.
 2. Navigate to **Entity Settings** then **General Setting**.
@@ -44,7 +43,7 @@ These settings control how academic years, terms, accounting features, and brand
 #### Academic Setting
 The **Academic Settings** section in **Lipa Ada** allows administrators to configure all academic-related parameters for the school.  
 It includes term management, academic section customization, section head assignments, and digital signature uploads.
----
+
 ![](academic setting.PNG)
 
 ## Step-by-Step Configuration Guide
@@ -53,7 +52,7 @@ It includes term management, academic section customization, section head assign
 2. Navigate to **Admin Settings** from the sidebar menu.
 3. Click on the **Academic Settings** tab at the top of the settings panel.  
    You will see sections for **Terms Management**, **Academic Section Colors**, **Section Head Assignments**, and **Digital Signatures**.
----
+
 ###  Configuring Terms Management
 
 This defines the school calendar for each term (Term 1 to Term 4).
@@ -131,7 +130,7 @@ These templates are used for automated notifications such as fee reminders,appli
 ---
 ![](message template.PNG)
 
-## steps to access
+## Steps to access
 To access:
 1. Log in to **Lipa Ada** as an Administrator.
 2. Navigate to **Admin Settings**.
@@ -153,13 +152,13 @@ To access:
 
 The **Bio Device** section in **Lipa Ada** allows administrators to manage biometric devices (such as fingerprint or RFID scanners) used for student and staff attendance tracking.  
 This module integrates biometric hardware with the system to automatically record attendance and synchronize logs in real-time.
----
+
 ![](bio devices.PNG)
-## steps to view devices
+## Steps to view devices
 1. Log in to **Lipa Ada** as an Administrator.
 2. Navigate to **Admin Settings** → **Bio Device** tab.
 3. View or add biometric devices used across the school’s departments or campuses.
----
+
 ##  How to Add  Bio Device
 
 ![](add devices.PNG)
@@ -194,12 +193,12 @@ After adding a device:
 The **User Activity** section in **Lipa Ada** allows administrators to monitor, track, and audit user actions across the entire system.  
 It provides visibility into all activities performed by system users, helping maintain accountability and security.
 ![](user activity.PNG)
----
+
 ## To access user activity:
 1. Log in to **Lipa Ada** as an Administrator.
 2. Go to **Admin Settings** → **User Activity** tab.
 3. The page will display a searchable and filterable activity log for all users.
----
+
 
 ##  How to View User Activity
 

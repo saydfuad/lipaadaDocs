@@ -4,7 +4,7 @@ This module handles **student BeepCard management** in the **Lipa Ada System**.
 BeepCards are used for **attendance tracking**, **cashless payments**, or **student identification**.
 
 ----
-## steps to manage student beep cards
+## Steps to manage student beep cards
 1. Navigate to **Beep Cards** then click **All Cards**,You’ll see a table listing all registered students and their BeepCard status.
 2. use the **Search bar** At the **top left**, type the student’s name or registration number in the **Search student...** field.  
    -This helps you quickly locate a specific student from the list.
@@ -24,8 +24,8 @@ BeepCards are used for **attendance tracking**, **cashless payments**, or **stud
 8. Repeat for other **Student**
    -Continue assigning or updating BeepCards for all students as needed. 
    -Use the search and filters to move between classes or years efficiently.
-
+  
  ![beep.png](beep.PNG)
 
 
-
+ 
