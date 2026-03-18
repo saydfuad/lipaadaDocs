@@ -7,7 +7,7 @@
 This documentation provides a step-by-step guide to the core functionalities of the system and common use cases.
 
 ---
-![](intro update.PNG)
+![](introup.PNG)
 
 ## How to Quick Start
 1. Navigate to **Student Records** and add a **Classrooms**. Ensure that you add all **Streams** associated with each **Classroom**.
