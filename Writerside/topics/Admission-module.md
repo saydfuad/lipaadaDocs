@@ -14,4 +14,4 @@ _**Note:** To ensure this module functions correctly, you need to create an **Op
 
 
 ---
-![admission_module.png](admission_module.png)
+![](admission module.PNG)
