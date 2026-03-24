@@ -99,85 +99,43 @@ Use the **Legend** to understand the meaning of colors:
 - Red for conflicts (hover to see more details
 
 
-
-
-
-
 ### Auto Generator
-Automatically creates timetables for selected classes using a **smart scheduling algorithm**.
-To starting set auto generator timetable, follow this steps:
-1. Navigate | Go to **Setup → Timetable → Manage Timetable** 
-2. Review | Check or edit existing timetables 
-3.  Auto Generate | Click **Auto Generate** for automated scheduling 
-4.  Configure | Set class, periods/day, teacher limits, and mode 
-5.  Generate | Click **Generate Timetable** 
-6. Review | View generated timetable and adjust manually if needed 
-Fill in the form as shown in Figure  below. Important fields to consider:
-![](auto generate.PNG)
--  **Generation Settings**
-This area lets you define how the automatic timetable will be generated.
- **Select Class**  Choose the class whose timetable you want to generate. 
- **Max Periods/Day**  Maximum number of lessons per day (e.g., 8). 
- **Teacher Max/Day**  Maximum number of lessons per teacher per day. 
- **Lunch Period**  Time slot reserved for lunch breaks. 
- **Performance Mode**  Controls how fast and detailed the generation will be. Options: Fast, Balanced, Thorough.
----
-- **Options**
-These checkboxes help refine generation behavior:
-**Clear existing timetable** Deletes any previous timetable for the selected class before generating a new one. |
-**Include lunch breaks** Ensures lunch periods are added automatically. |
-**Balance teacher workload** Distributes classes evenly across teachers to prevent overloading. |
+## Auto Generate Timetable
 
-- **Performance Modes**
-Choose how the system generates schedules depending on speed and quality.
- **Fast**  50 attempts, 10s Quick generation with basic balancing. 
- **Balanced** 500 attempts, 25s  Default mode – good balance of speed and accuracy. 
- **Thorough** 2000 attempts, 45s Best quality with full workload optimization.
+We provide an intelligent way to automatically generate class timetables based on the system settings. Follow the steps below to complete the process:
+![](auto generat.PNG)
+1. Navigate to **Timetable → Auto Generator** and select the class you want to generate a timetable for.
 
-- **Generation Log**
-  Displays progress or errors during the timetable generation process.
- **Log Output**  Shows live updates during generation. 
- **Clear Button** | Resets the log area for new generation runs. 
+2. Configure the generation settings by selecting options such as:
+    - **Clear existing timetable**
+    - **Include lunch breaks**
+    - **Balance teacher workload**![](option.PNG)
+   
 
-### **How It Works**
-  The **Smart Algorithm** automatically:
-- Analyzes subject requirements.
-- Balances teacher workloads.
-- Optimizes classroom and room usage.
-- Avoids teacher double-booking and scheduling conflicts.
+3. Set the required parameters:
+    - **Max Periods/Day**
+    - **Teacher Max/Day**
+    - **Lunch Period** ![](required.PNG)
 
-**Constraints applied:**
-- Core subjects are placed in the morning.
-- Physical activities scheduled in the afternoon.
-- Daily workload is balanced for each teacher and class.
+4. Choose the preferred **Performance Mode**:
+    - **Fast** – quick results
+    - **Balanced** – recommended (good quality)
+    - **Thorough** – best quality but slower
 
+5. Ensure that time periods are already configured. If not, click **Set Up Periods** to define them.
 
-####  **Quality Scoring**
-After generation, the timetable receives a **quality score** based on efficiency and fairness:
-90–100%  **Excellent** 
-70–89%  **Good** 
-50–69%  **Acceptable**
-Below 50%  Needs improvement
+6. Click **Generate Timetable** to start the process.
 
+7. The system will automatically:
+    - Assign subjects to periods
+    - Allocate teachers
+    - Balance workload
+    - Avoid scheduling conflicts
 
-####  **Generation Log**
-Displays progress or errors during the timetable generation process.
-**Log Output**  Shows live updates during generation. 
-**Clear Button**  Resets the log area for new generation runs.
+8. Once completed, review the timetable in **Manage Timetable**.
 
+9. If there are any conflicts or missing allocations, the system will highlight them and guide you to make necessary adjustments.
 
-#### **Generate Timetable Button**
-Once all settings are configured:
-1. Select the desired class.
-2. Adjust the performance mode.
-3. Click **Generate Timetable**.
-4. Wait for the algorithm to complete (usually 20–30 seconds).
-5. Review results in **Manage Timetable** or **Grid View**.
-
-
-### **Navigation Buttons**
- **Back to List**  Returns to Manage Timetable page. 
- **Grid View**  Switches to the timetable visualization interface.
 
 
 ### Timetable Grid
