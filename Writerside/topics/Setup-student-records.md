@@ -9,7 +9,7 @@ To start using **LIPA ADA** you must have list of **Classroom** as per your scho
 2. If your **Classroom** has only one **Stream**, click **Add** to create the classroom. If it has multiple streams, proceed to **Streams** and add each stream (e.g., *A*, *B*, etc.).
 3. We will return later to assign a **Class Teacher** and verify subjects, but this is not necessary for the initial setup.
 
-![add_class.png](add_class.png)
+![](Add class.PNG)
 
 ## Student Import
 
@@ -20,7 +20,7 @@ We provide an easy way to import your students from an Excel file. Follow the st
 3. Return to **LIPA ADA** and upload the updated file. Select the appropriate **Classroom**, **Stream**, and **Academic Year**.
 4. Click **Import** to validate and import the data. If there are any errors, the system will display helpful information to guide you through the next steps.
 
-![import.png](import.png) Figure 1
+![](import1.PNG)  Figure 1
 **Note:** *You must fill a separate file for each **Stream** within the same **Classroom***
 
 ## Subjects Registration
@@ -38,7 +38,7 @@ To start adding **Subjects**, follow these steps:
 4. Under **Classification**, choose **Mandatory** if the **Subject** is required and will be considered when evaluating student performance.
 5. If you have already registered users as **Teachers**, you can assign a teacher to this subject for the selected class, but this is not mandatory at this stage.**Note:** *Only teacher assigned to subject can post results using **Direct Post***
 6. Click **Add** to finish adding the **Subject**. Repeat the process for all other **Subjects** in the same class.
-![subjects.png](subjects.png) Figure 2
+![](Subject update.PNG) Figure 2
 
 ## Grade Setup
 
@@ -53,7 +53,7 @@ Setting up the grading system is straightforward; just follow these steps:
 5. Use the **Definition** field to add a remark for the grade (e.g., **EXCELLENT** for grade **A**).
 
 **Note:** When adding grades for a particular **Level**, ensure that the minimum and maximum values cover all possible marks that a student might achieve. For example, if you set the minimum as 0 and the maximum as 34 for **F**, and then set the minimum as 36 and the maximum as 54 for **D**, you will miss the grade for a student who scores 35, as it wouldn't fall within any of the defined ranges.
-![grade.png](grade.png) Figure 3
+![](grade update.PNG) Figure 3
 
 ## Report Card Comments
 
@@ -67,7 +67,7 @@ To set up predefined report card comments, follow these steps:
 4. Enter the **Minimum** and **Maximum** average score range that will trigger this comment to appear on a student's report card.
 5. Repeat this process for each possible score range, as shown in Figure 4 below.
 
-![comments.png](comments.png) Figure 4
+![](result comment 2.PNG) Figure 4
 
 ## Timetable
 ### Managed Timetable
@@ -85,14 +85,14 @@ To set up timetable, follow these steps:
 
 ![](manage timetable.PNG)
 
-### **Step 2 — Understand the Page Layout**
+### Step 2 — Understand the Page Layout
 The page contains the following main components:
+
+- Search Timetable search bar to quickly find specific timetables by class, day, or subject. 
+- Table Display Shows all existing timetable entries for review and management. 
+- Action Buttons  Located at the top right — used to generate, add, or export timetables.
 ---
- **Search Timetable** A search bar to quickly find specific timetables by class, day, or subject. 
- **Table Display** Shows all existing timetable entries for review and management. 
- **Action Buttons** Located at the top right — used to generate, add, or export timetables.
----
-### **Step 3 — Review the Timetable Table**
+### Step 3 — Review the Timetable Table
 Each row in the table represents one schedule entry with the following details:
  **CLASS** The class or grade level (e.g., Grade 7, Form 2). 
  **DAY** The weekday for that lesson (e.g., Monday). 
@@ -102,21 +102,20 @@ Each row in the table represents one schedule entry with the following details:
  **ROOM** The classroom or lab where the lesson will take place. 
  **STATUS** Indicates whether the timetable is active or inactive. 
  **ACTIONS** Icons for managing each timetable record (view, edit, delete).
----
+
 ### **Step 4 — Use Action Buttons**
 At the **top right corner** of the page, you’ll find several key buttons:
 **Auto Generate** Green in color - Automatically generate a timetable based on system rules. 
 **Grid View** Blue in color - Displays all timetable entries in a grid (visual schedule layout). 
 **Add Timetable** Sky Blue color - Manually add a new timetable entry. 
 **Export** Orange in color - Export the timetable data (e.g., to Excel or PDF).
----
+
 
 ### **Step 5 — Manage Existing Entries**
 In the **Actions** column on the right of each row:
  **View (Blue)** - Opens detailed view of a timetable record. 
  **Edit (Black)** - Allows modification of an existing timetable entry. 
  **Delete (Red)** - Permanently removes the selected timetable.
----
 ### **Step 6 — Auto Generate Timetable**
 - Click **Auto Generate** to let the system automatically create a schedule based on:
     - Defined **class periods**
@@ -124,7 +123,7 @@ In the **Actions** column on the right of each row:
     - Assigned **subjects**
     - Configured **rooms**
 - This saves time and prevents double-booking of teachers or rooms.
----
+
 ### **Step 7 — Add a New Timetable**
 - Click **Add Timetable (+)**
 - Fill in:
@@ -133,11 +132,11 @@ In the **Actions** column on the right of each row:
     - **Teacher**
     - **Room**
 - Click **Save** to create the entry.
----
+
 ### **Step 8 — Export or View Grid Layout**
 - Use **Grid View** to visualize the timetable by day and class.
 - Use **Export** to generate a printable copy for administration or display.
----
+
 
 ### Auto Generator
 Automatically creates timetables for selected classes using a **smart scheduling algorithm**.
@@ -186,7 +185,7 @@ Choose how the system generates schedules depending on speed and quality.
 - Core subjects are placed in the morning.
 - Physical activities scheduled in the afternoon.
 - Daily workload is balanced for each teacher and class.
----
+
 
 ####  **Quality Scoring**
 After generation, the timetable receives a **quality score** based on efficiency and fairness:
@@ -194,13 +193,13 @@ After generation, the timetable receives a **quality score** based on efficiency
 70–89%  **Good** 
 50–69%  **Acceptable**
 Below 50%  Needs improvement
----
+
 
 ####  **Generation Log**
 Displays progress or errors during the timetable generation process.
 **Log Output**  Shows live updates during generation. 
 **Clear Button**  Resets the log area for new generation runs.
----
+
 
 #### **Generate Timetable Button**
 Once all settings are configured:
@@ -209,12 +208,12 @@ Once all settings are configured:
 3. Click **Generate Timetable**.
 4. Wait for the algorithm to complete (usually 20–30 seconds).
 5. Review results in **Manage Timetable** or **Grid View**.
----
+
 
 ### **Navigation Buttons**
  **Back to List**  Returns to Manage Timetable page. 
  **Grid View**  Switches to the timetable visualization interface.
----
+
 
 ### Timetable Grid
 Displays the weekly timetable visually by **day and time period**.  
@@ -257,12 +256,12 @@ Define and manage available rooms and learning spaces used in scheduling.
 - Select **Manage Rooms** from the dropdown.
 - The system will display the list of existing rooms (if any).
 
----
+
 
 ### Step 2: Click on "Add Room"
 - Click the **Add Room** button (usually at the top-right or above the list).
 - A form will appear for entering room details.
----
+
 
 ### Step 3: Fill in Room Details
 Enter the following fields:
@@ -272,7 +271,7 @@ Enter the following fields:
 - **Room Code** → example: **SL1, ** CLA**
 - **Status** → Set as *Active* or *Inactive*
 - **Description** → additional details about the room.
----
+
 
 ### Step 4: Save the Room
 - After filling in details, click the **Add** button.
@@ -305,35 +304,35 @@ Setting periods ensures proper timetable generation and scheduling.
 - From the **Setup** menu on the left sidebar, click **Timetable**.
 - Choose **Set Period** from the dropdown list.
 - The system will display all existing periods in a tabular list (if any are already configured).
----
+
 
 ### Step 2: Click **Add  Period**
 - Press the **Add Period** button (usually on the top-right of the page).
 - A form will appear to enter new period details.
----
+
 ### Step 3: Fill in Period Details
 Provide the following details in the form:
 **Start Time**  The time the period begins  e.g *08:00 AM* 
 **End Time**  The time the period ends  *09:00 AM* 
 **Title** e.g **regular Period**, **Break**
 **Level** choose level e.g **Nur**, **prim** , **Sec** and **Advance**.
----
+
 
 ### Step 4: Save the Period
 - Click **Add**  to confirm your entry.
 - The new period will now be listed in the table and available for use in timetable generation.
----
+
 
 ###  Additional Actions
 - **Edit:** Modify timing or name of an existing period.
 - **Delete:** Remove a period (only if not yet used in any timetable).
----
+
 ![](add period.PNG)
 ## 💡 Notes
 - Periods must be set before using **Auto Generator** or **Manage Timetable**.
 - Avoid overlapping time ranges to prevent scheduling conflicts.
 - Ensure lunch or break periods are clearly marked for accurate timetable creation.
----
+
 
 
 
