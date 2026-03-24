@@ -71,71 +71,36 @@ To set up predefined report card comments, follow these steps:
 
 ## Timetable
 ### Managed Timetable
-The **Manage Timetable** page in **Lipa Ada** allows administrators to create, edit, view, and organize class timetables for all subjects, teachers, and rooms within the school.  
-This ensures that all teaching activities are well-structured and no scheduling conflicts occur.
-To set up timetable, follow these steps:
+## Manage Timetable
 
----
-##  Step-by-Step Workflow
+We provide an easy way to view and manage class timetables within the system. Follow the steps below to explore and monitor the timetable:
 
-### **Step 1 — Navigate to the Timetable Module**
-- Go to:  
-  **SETUP → Timetable → Manage Timetable**
-- The *Manage Timetables* interface will open, as shown in the image.
+Navigate to **Timetable → Manage Timetable** from the sidebar.
 
-![](manage timetable.PNG)
+Use the filters at the top to select the appropriate **Class**, **Stream**, **Teacher**, and **Week** (e.g., Current Week).
 
-### Step 2 — Understand the Page Layout
-The page contains the following main components:
+Choose your preferred view:
+- **Class View** to see the timetable by class
+  ![](manage timetabls update.PNG)
+- **Teacher View** to see the timetable by teacher
+![](teacher2.PNG)
 
-- Search Timetable search bar to quickly find specific timetables by class, day, or subject. 
-- Table Display Shows all existing timetable entries for review and management. 
-- Action Buttons  Located at the top right — used to generate, add, or export timetables.
----
-### Step 3 — Review the Timetable Table
-Each row in the table represents one schedule entry with the following details:
- **CLASS** The class or grade level (e.g., Grade 7, Form 2). 
- **DAY** The weekday for that lesson (e.g., Monday). 
- **PERIOD** The lesson period or time slot (e.g., Period 1). 
- **SUBJECT** The subject being taught (e.g., Mathematics). 
- **TEACHER** The assigned teacher for that subject and time. 
- **ROOM** The classroom or lab where the lesson will take place. 
- **STATUS** Indicates whether the timetable is active or inactive. 
- **ACTIONS** Icons for managing each timetable record (view, edit, delete).
+The system will display a timetable grid showing days (Monday to Friday) and periods. Each cell represents a scheduled subject or activity.
 
-### **Step 4 — Use Action Buttons**
-At the **top right corner** of the page, you’ll find several key buttons:
-**Auto Generate** Green in color - Automatically generate a timetable based on system rules. 
-**Grid View** Blue in color - Displays all timetable entries in a grid (visual schedule layout). 
-**Add Timetable** Sky Blue color - Manually add a new timetable entry. 
-**Export** Orange in color - Export the timetable data (e.g., to Excel or PDF).
+Review the **Quick Stats** section to see:
+- Number of filled slots
+- Number of free slots
+- Overall timetable coverage (%)
+
+Use the **Legend** to understand the meaning of colors:
+- Blue for regular subjects
+- Yellow for breaks or non-academic activities
+- Green for free periods
+- Red for conflicts (hover to see more details
 
 
-### **Step 5 — Manage Existing Entries**
-In the **Actions** column on the right of each row:
- **View (Blue)** - Opens detailed view of a timetable record. 
- **Edit (Black)** - Allows modification of an existing timetable entry. 
- **Delete (Red)** - Permanently removes the selected timetable.
-### **Step 6 — Auto Generate Timetable**
-- Click **Auto Generate** to let the system automatically create a schedule based on:
-    - Defined **class periods**
-    - Available **teachers**
-    - Assigned **subjects**
-    - Configured **rooms**
-- This saves time and prevents double-booking of teachers or rooms.
 
-### **Step 7 — Add a New Timetable**
-- Click **Add Timetable (+)**
-- Fill in:
-    - **Class**, **Day**, **Period**
-    - **Subject**
-    - **Teacher**
-    - **Room**
-- Click **Save** to create the entry.
 
-### **Step 8 — Export or View Grid Layout**
-- Use **Grid View** to visualize the timetable by day and class.
-- Use **Export** to generate a printable copy for administration or display.
 
 
 ### Auto Generator
