@@ -6,4 +6,4 @@ This section provides options to view all applications selected for interviews, 
 
 ---
 
-![intervew.png](intervew.png)
+![](interview.PNG)
