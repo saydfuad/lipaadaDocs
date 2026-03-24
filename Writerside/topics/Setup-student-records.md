@@ -112,74 +112,41 @@ We provide an intelligent way to automatically generate class timetables based o
     - **Balance teacher workload**![](option.PNG)
    
 
-3. Set the required parameters:
+1. Set the required parameters:
     - **Max Periods/Day**
     - **Teacher Max/Day**
     - **Lunch Period** ![](required.PNG)
 
-4. Choose the preferred **Performance Mode**:
+2. Choose the preferred **Performance Mode**:
     - **Fast** – quick results
     - **Balanced** – recommended (good quality)
     - **Thorough** – best quality but slower
 
-5. Ensure that time periods are already configured. If not, click **Set Up Periods** to define them.
+3. Ensure that time periods are already configured. If not, click **Set Up Periods** to define them.
 
-6. Click **Generate Timetable** to start the process.
+4. Click **Generate Timetable** to start the process.
 
-7. The system will automatically:
+5. The system will automatically:
     - Assign subjects to periods
     - Allocate teachers
     - Balance workload
     - Avoid scheduling conflicts
 
-8. Once completed, review the timetable in **Manage Timetable**.
+6. Once completed, review the timetable in **Manage Timetable**.
 
-9. If there are any conflicts or missing allocations, the system will highlight them and guide you to make necessary adjustments.
-
-
-
-### Timetable Grid
-Displays the weekly timetable visually by **day and time period**.  
-
-##Steps:
-1. Navigate to **Timetable** click **Timetable Grid**
-2. **Select class dropdown** Choose which class timetable to view. 
-3. **Week Filter:** Switch between current or past/future weeks. 
-4. **List View / Print Buttons:** Switch display format or print the grid. 
-
-![](timetable grid.PNG)
-
-### Summary 
-**Timetable Table:** Shows each day’s schedule with time slots.
-- *Free Period* – no subject assigned
-- *Regular Period* – subject assigned
-- **Quick Stats:**
-    - Filled Slots
-    - Free Slots
-    - Coverage percentage
-- **Legend:** Explains color codes
-    - 🟦 Regular Subject
-    - 🟧 Break / Non-Academic
-    - ⬜ Free Period
-
-**Usage Tip:**  
-Use **Timetable Grid** after generation or manual edits to verify that all periods are correctly allocated.
+7. If there are any conflicts or missing allocations, the system will highlight them and guide you to make necessary adjustments.
 
 ### Manage Room
 Define and manage available rooms and learning spaces used in scheduling.
 ### To access the **Manage Rooms** section:
 1. Go to **Timetable** click **Manage Rooms** 
 
- ![](manage room.PNG)
-
-### Steps to **Add Room**
+## Steps to **Add Room**
 ### Step 1: Open Manage Rooms
 - Go to the **Setup** menu on the sidebar.
 - Click **Timetable**.
 - Select **Manage Rooms** from the dropdown.
 - The system will display the list of existing rooms (if any).
-
-
 
 ### Step 2: Click on "Add Room"
 - Click the **Add Room** button (usually at the top-right or above the list).
@@ -200,7 +167,7 @@ Enter the following fields:
 - After filling in details, click the **Add** button.
 - The new room will now appear in the room list and become available for timetable allocation.
 
-![](add room.PNG)
+![](room.PNG)
 
 ## Additional Options
 - **Edit Room:** Modify an existing room’s details.
@@ -219,8 +186,6 @@ Setting periods ensures proper timetable generation and scheduling.
 
 ### To access the **Set Period** section:
 1. Navigate to **Timetable** click **Set Period**
-
-![](set period.PNG)
 
 ## Steps to **Add Period**
 ### Step 1: Open Set Period Page
@@ -244,13 +209,12 @@ Provide the following details in the form:
 ### Step 4: Save the Period
 - Click **Add**  to confirm your entry.
 - The new period will now be listed in the table and available for use in timetable generation.
-
+![](Period1_2.PNG)
 
 ###  Additional Actions
 - **Edit:** Modify timing or name of an existing period.
 - **Delete:** Remove a period (only if not yet used in any timetable).
 
-![](add period.PNG)
 ## 💡 Notes
 - Periods must be set before using **Auto Generator** or **Manage Timetable**.
 - Avoid overlapping time ranges to prevent scheduling conflicts.
