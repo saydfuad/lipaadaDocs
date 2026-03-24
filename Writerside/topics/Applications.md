@@ -8,11 +8,11 @@ Additionally, this section enables you to make bulk decisions. You can select mu
 
 ---
 
-![app_f1.png](app_f1.png)
+![](application update.PNG)
 Figure 1
 
-![addp_f2.png](addp_f2.png)
+![](addp.PNG)
 Figure 2
 
-![app_f3.png](app_f3.png)
+![](bulk decision update.PNG)
 Figure 3
