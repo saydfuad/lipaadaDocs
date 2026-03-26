@@ -10,7 +10,7 @@ You also have the option to **Add Student**, but we recommend using the *Import*
 
 To view a student's account, click the student icon as shown in Figure 1 below.
 
-![view_student.png](view_student.png)
+![](managed Student.PNG)
 **Figure 1**
 
 ### Basic Info
