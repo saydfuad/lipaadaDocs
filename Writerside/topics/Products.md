@@ -16,7 +16,7 @@ To add a new product:
 5. Choose the account to record revenue collected by this product.
 6. Click **Add** to finish.
 
-![add_prod.png](add_prod.png)
+![](PRODUCTS.PNG)
 
 To add a **Discount**, follow the same process, but select **Discount** as the type instead of **Package**.
 
