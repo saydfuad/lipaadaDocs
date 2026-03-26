@@ -11,4 +11,4 @@ Follow these steps to load bills:
 5. Return to **LIPA ADA**, choose the updated file, and click **Upload Bills**.
 6. The bills will be created, and the system will redirect you to the bills list.
 
-![bill_file.png](bill_file.png)
+![](load bill from files.PNG)
