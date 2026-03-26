@@ -13,4 +13,4 @@ or **Reported** on a given school day.
 5. Click **Save Attendance** to Save Attendance Record.
 6. Click **Bulk Action** to Mark All Present / Absent / Reported.
 
-![](attendences.PNG)
+)![](attendences.PNG)

@@ -24,7 +24,67 @@ BeepCards are used for **attendance tracking**, **cashless payments**, or **stud
    -Continue assigning or updating BeepCards for all students as needed. 
    -Use the search and filters to move between classes or years efficiently.
   
- ![beep.png](beep.PNG)
+ ![](all cards_2.PNG)
+
+# Assign Card
+The **Assign Card** module allows administrators to generate and assign ID cards to students. This feature ensures that each student is issued with a unique identification card containing essential personal and school information.
+
+---
+
+## Navigation
+To access this feature:
+
+- Go to **Beep Cards → Assign Card** from the sidebar menu
 
 
- 
+
+## Page Layout
+
+The page is divided into two main sections:
+
+### 1. Assign Card Form (Left Panel)
+This section is used to input and configure card details before assignment.
+
+### 2. Card Preview (Right Panel)
+Displays a real-time preview of the student ID card based on the selected inputs.
+
+
+## Assign Card Form Fields
+
+### Card Template
+- Select the design/layout of the ID card
+- Example: `sample`
+- Determines how the card will appear in the preview
+
+### Classroom
+- Select the student’s class
+- Example: `Form IV`
+- Filters students based on the selected class
+
+### Student
+- Choose the student from the selected class
+- Automatically loads student details into the form
+
+### Student Display Name
+- Editable field for how the student name will appear on the card
+- Default is the student’s full name
+
+### Card Number
+- Unique identifier for the card
+- Must be unique for each student
+- Example: `67618240815007`![](assign card.PNG)
+
+# Design Card
+The **Design Card** module allows administrators to create and customize student ID card templates. It provides flexible design options including colors, text, and layout to match the school’s branding.
+
+---
+To access this feature:
+
+- Go to **Beep Cards → Design Card** from the sidebar menu
+- Click **Save Template** to save the design template.
+
+![](Assign Cards.PNG)
+
+
+
+
