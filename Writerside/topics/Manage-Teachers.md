@@ -5,4 +5,4 @@ The Teachers section displays a list of all registered teachers, but it does not
 For a complete **Teacher Profile**, including work performance, leave management, payroll, and attendance monitoring, contact **ZMOTION SOLUTIONS** to acquire the **Human Resource Module**.
 
 
-![teachers.png](teachers.png)
+![](Teacher update.PNG)
