@@ -13,4 +13,4 @@ In this section, we will explore the usefulness of each report and how they can 
 4. **Student Statement:** This report provides a complete status of a student's account, including all bills created and payments made during the selected time. Use this report to trace bills and payments for a student from different bills created at different times.
 
 5. **Bill Report:** This is the master report for bill tracking and sending reminders to parents. It allows you to view pending bills for students in a particular **Classroom**, with options to filter by **Stream** and **Academic Year**. When you select any bill or multiple bills by clicking the checkbox next to each bill, the system will provide an extra button at the top right corner to send a reminder to parents about the pending bills.
-![report1.png](report1.png)
+![](BILL REMINDERS.PNG)
