@@ -12,4 +12,4 @@ Follow these steps:
 
 **Note:** Tick **Is final class** this is a final class at your school for student you are promoting
 
-![promote.png](promote.png)
+![](class promotions.PNG)
