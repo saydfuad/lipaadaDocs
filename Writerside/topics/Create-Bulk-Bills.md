@@ -5,7 +5,7 @@ This section is typically used to generate bills at the beginning of the year or
 To create bills for all or selected students in a particular **Classroom**, follow these steps:
 
 1. Navigate to **Bills** and click **Add Bulk Bills**.
-2. Choose the **Classroom**, **Academic Year**, and **Group**.![bulk1.png](bulk1.png)
+2. Choose the **Classroom**, **Academic Year**, and **Group**.![](Bill bulk.PNG)
 3. The system will list all students from the selected **Classroom** for the chosen **Academic Year**.
 4. **Select All** students by clicking the checkbox at the table heading, or select specific students for whom you need to generate bills.
 5. Click **Generate** to create bills. _Note: System will skip all student with similar bill in selected **Academic Year**_
