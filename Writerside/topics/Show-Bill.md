@@ -2,7 +2,7 @@
 
 ## Show Bill
 Each bill keeps track of its items and payment records history. To view bill details, navigate to **Bills** and click the **View** icon as shown below.
- ![bill_show.png](bill_show.png)
+ ![](ACTIONS.PNG)
 
 The following section will be displayed and is divided into three parts:
 
@@ -10,7 +10,7 @@ The following section will be displayed and is divided into three parts:
 2. **Bill Items List**: The second part lists all bill items and their values.
 3. **Payment History**: The last part displays the payment history & credit notes for this bill.
 
-![show_parts.png](show_parts.png)
+![](Credit note1.PNG)
 
 In the top right corner, these three buttons can be used to:![sho_corner.png](sho_corner.png)
 
@@ -22,10 +22,10 @@ In the top right corner, these three buttons can be used to:![sho_corner.png](sh
 ## Edit Bill
 
 A bill can be edited if it is not fully paid. To edit a bill, navigate to **Bills** and click the **Edit** button as shown below to open the bill editor.
-![bill_edit.png](bill_edit.png)
+![](edit billls.PNG)
 
 Update your bill information and click **Update Bill** to save changes
-![bill_update.png](bill_update.png)
+![](UPDATE BILL.PNG)
 
 ## Cancel bill
 
