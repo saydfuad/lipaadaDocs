@@ -215,7 +215,7 @@ Provide the following details in the form:
 - **Edit:** Modify timing or name of an existing period.
 - **Delete:** Remove a period (only if not yet used in any timetable).
 
-## 💡 Notes
+## Notes
 - Periods must be set before using **Auto Generator** or **Manage Timetable**.
 - Avoid overlapping time ranges to prevent scheduling conflicts.
 - Ensure lunch or break periods are clearly marked for accurate timetable creation.
