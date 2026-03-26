@@ -6,7 +6,7 @@ BeepCards are used for **attendance tracking**, **cashless payments**, or **stud
 ## Steps to manage student beep cards
 1. Navigate to **Beep Cards** then click **All Cards**,You’ll see a table listing all registered students and their BeepCard status.
 2. use the **Search bar** At the **top left**, type the student’s name or registration number in the **Search student...** field.  
-   -This helps you quickly locate a specific student from the list.
+   — This helps you quickly locate a specific student from the list.
 3. Filter by **Grade** In the **center dropdown**, select the grade you want to view (e.g., `GRADE7`, `FORM 1`).
    -The table will update to show only students from that selected grade.
 4. Filter by **Year** At the **top right**, choose the academic year using the **Year** dropdown.
@@ -16,7 +16,7 @@ BeepCards are used for **attendance tracking**, **cashless payments**, or **stud
    -If there’s a card number, the student already has one assigned.
 6. Assign or update **Beep Cards** In the **ACTIONS** column (far right), click the **🔁 (refresh icon)** next to a student’s name.
   -This assigns a new BeepCard or updates an existing one.
-  -After the action, the page refreshes and the card number will appear under **CARD NUMBER**.
+  — After the action, the page refreshes and the card number will appear under **CARD NUMBER**.
 7. Confirm **cards assigment**
    -After assigning, confirm the student’s card number is now visible in the table.
    -Each student should now have a unique BeepCard ID displayed in the **CARD NUMBER** column.
@@ -30,13 +30,12 @@ BeepCards are used for **attendance tracking**, **cashless payments**, or **stud
 The **Assign Card** module allows administrators to generate and assign ID cards to students. This feature ensures that each student is issued with a unique identification card containing essential personal and school information.
 
 ---
-
-## Navigation
 To access this feature:
 
 - Go to **Beep Cards → Assign Card** from the sidebar menu
-- Click **Assign Card ** to assign a new card.
-![](assign card_2.PNG)
+- Click **Assign Card** to generate and assign a new card.
+![](assign card_3.PNG)
+
 # Design Card
 The **Design Card** module allows administrators to create and customize student ID card templates. It provides flexible design options including colors, text, and layout to match the school’s branding.
 
