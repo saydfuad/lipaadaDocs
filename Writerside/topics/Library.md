@@ -9,7 +9,7 @@ It provides an at-a-glance view of **total books**, **borrowed items**, **availa
 2. Click **Modules** from the top navigation bar.
 3. Select **Library** to open the module dashboard.  
 
-![](library.PNG)
+![](LIBRARYS.PNG)
 
 ### Dashboard Overview
  **Books** Displays the total number of books recorded in the system. 
