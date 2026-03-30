@@ -14,8 +14,7 @@ Linking Librarian to section will limit them to see books and borrowings of that
 4. Select librarian or select users **admin**, **muhammed** etc.
 5. Click **Update Setting ** to save changes.
 
-![](general setting2.PNG)
-
+![](Manage set_2.PNG)
 ## Manage Sections
 Organize library sections for books.
 ### How to add a section:
