@@ -1,5 +1,5 @@
 # Admin Settings
-
+![](admin dashboard.PNG)
 ## Manager users
 This section allows administrators to view, add, and manage user accounts and includes features for
 searching users by name or email, adding new users, managing user roles and permissions and viewing user details such as **name**, **email**, **phone**.
@@ -15,7 +15,7 @@ searching users by name or email, adding new users, managing user roles and perm
    - Click **Add** the new user will appear in the user list automatically.
    - After adding confirm the user appears in the **user list** table , send login credentials to the user via email or SMS.
    - The user can now log in using the provided credentials.
-![](manage users.PNG)
+![](ADD USERS.PNG)
 ## Search functionality
 There is a **Search user** input box that allows the admin to quickly locate a user by typing their **Name**, **email**, or **Phone number**.
 
@@ -26,6 +26,8 @@ The **Add user** button opens a form where the admin can register a new user by 
 ## Manage Roles
 The **Manage Roles** button allows the admin to define or update user role and permissions.
 example roles: (**Admin**, **Teacher**, **Accountant**, **Student**).
+![](adm1.PNG)
+
 
 ## Entity Setting
 ### General Settings
@@ -38,13 +40,13 @@ These settings control how academic years, terms, accounting features, and brand
 3. Edit general information e.g **Active Academic Year**, **Active Term**, **Allow multiple fee structure** and so on.
 4. Click **Update Settings** to save changes.
 
-![](Genaral setting enty.PNG)
+![](ent set.PNG)
 
 #### Academic Setting
 The **Academic Settings** section in **Lipa Ada** allows administrators to configure all academic-related parameters for the school.  
 It includes term management, academic section customization, section head assignments, and digital signature uploads.
 
-![](academic setting.PNG)
+![](academ sets.PNG)
 
 ## Step-by-Step Configuration Guide
 ### Accessing Academic Settings
@@ -66,7 +68,7 @@ This defines the school calendar for each term (Term 1 to Term 4).
 3. Fill in the number of school days (optional but recommended).
 4. Verify that the dates do not overlap between terms.
 
-![](academic setting 2_2.PNG)
+![](acs.PNG)
 
 ###  Setting Academic Section Colors
 
@@ -128,8 +130,7 @@ The **Message Templates** section in **Lipa Ada** allows administrators to creat
 These templates are used for automated notifications such as fee reminders,application confirmation, interview passed or failed, and payment confirm.
 
 ---
-![](message template.PNG)
-
+![](template sms.PNG)
 ## Steps to access
 To access:
 1. Log in to **Lipa Ada** as an Administrator.
