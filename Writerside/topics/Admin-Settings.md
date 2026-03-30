@@ -193,7 +193,7 @@ After adding a device:
 ## User Activity
 The **User Activity** section in **Lipa Ada** allows administrators to monitor, track, and audit user actions across the entire system.  
 It provides visibility into all activities performed by system users, helping maintain accountability and security.
-![](user activity.PNG)
+![](user act.PNG)
 
 ## To access user activity:
 1. Log in to **Lipa Ada** as an Administrator.
