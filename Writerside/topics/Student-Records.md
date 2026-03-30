@@ -6,5 +6,4 @@ This module provides the foundation for managing all student-related information
 
 In this section, we will guide you through the necessary steps to set up your student records, ensuring your school’s data is organized and ready for efficient management through **LIPA ADA**
 
-
-![st_record.png](st_record.png)
+![](st dashboard.PNG)
