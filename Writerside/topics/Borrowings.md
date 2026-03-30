@@ -13,7 +13,7 @@ Step 2: View Existing Borrowings
   - Each entry displays the book, student, and borrowing status.
 
 
-![](borrowing.PNG)
+![](issue books.PNG)
 
 ## How to Issue a Book
 Step 1. Click **Add Issue Book**
@@ -27,7 +27,7 @@ Step 3. Save the Record
   - Click **Issue Book** to confirm the borrowing transaction.
   - The book will now appear under the Borrowings list with status: **Borrowed**.
 
-![](issue book.PNG)
+![](issue books update.PNG)
 
 
   
